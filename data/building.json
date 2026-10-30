@@ -1,0 +1,4041 @@
+{
+"sets": {
+"ChoamShelterSet": {
+"name": "Choam Shelter Set",
+"desc": "",
+"pieces": [
+"Choam_Shelter_Column_New",
+"Choam_Shelter_Door_Frame_New",
+"Choam_Shelter_Floor_Round_Corner_New",
+"Choam_Shelter_Floor_Round_Corner_Inverted_New",
+"Choam_Shelter_Floor_New",
+"Choam_Shelter_Foundation_New",
+"Choam_Shelter_Foundation_Round_Corner_New",
+"Choam_Shelter_Hatch_New",
+"Choam_Shelter_Ladder_New",
+"Choam_Shelter_Pillar_Bottom_New",
+"Choam_Shelter_Pillar_Middle_New",
+"Choam_Shelter_Pillar_Top_New",
+"Choam_Shelter_Railing_Gate_New",
+"Choam_Shelter_Railing_New",
+"Choam_Shelter_Railing_Inclined_New",
+"Choam_Shelter_Railing_Round_Corner_New",
+"Choam_Shelter_Ramp_New",
+"Choam_Shelter_Ramp_Corner_New",
+"Choam_Shelter_Ramp_Corner_Inward_New",
+"Choam_Shelter_Roof_Half_New",
+"Choam_Shelter_Roof_Corner_Half_New",
+"Choam_Shelter_Roof_Round_Corner_Half_New",
+"Choam_Shelter_Roof_Corner_Half_Inward_New",
+"Choam_Shelter_Stairs_Corner_New",
+"Choam_Shelter_Stairs_Corner_Inward_New",
+"Choam_Shelter_Wall_01_New",
+"Choam_Shelter_Wall_02_New",
+"Choam_Shelter_Wall_03_New",
+"Choam_Shelter_Wall_Half_New",
+"Choam_Shelter_Wall_Round_Corner_01_New",
+"Choam_Shelter_Wall_Round_Corner_02_New",
+"Choam_Shelter_Stairs_New",
+"Choam_Shelter_Wall_Round_Corner_Half_New",
+"Choam_Shelter_Wall_Triangle_Bottom_Left_New",
+"Choam_Shelter_Wall_Triangle_Bottom_Right_New",
+"Choam_Shelter_Column_Corner_New",
+"Choam_Shelter_Wall_Triangle_Bottom_Half_Left_New",
+"Choam_Shelter_Wall_Triangle_Bottom_Half_Right_New",
+"Choam_Shelter_Wall_Triangle_Top_Left_New",
+"Choam_Shelter_Wall_Triangle_Top_Right_New",
+"Choam_Shelter_Window_Round_Corner_02_New",
+"Choam_Shelter_Wall_Triangle_Top_Half_Left_New",
+"Choam_Shelter_Wall_Triangle_Top_Half_Right_New",
+"Choam_Shelter_Window_New",
+"Choam_Shelter_Window_Round_Corner_01_New",
+"Choam_Shelter_Railing_Inclined_Half_New",
+"Choam_Shelter_Ramp_Half_New",
+"Choam_Shelter_Ramp_Corner_Half_New",
+"Choam_Shelter_Ramp_Corner_Half_Inward_New",
+"Choam_Shelter_Stairs_Half_New",
+"Choam_Shelter_Stairs_Corner_Half_New",
+"Choam_Shelter_Stairs_Corner_Half_Inward_New",
+"Choam_Shelter_Rooftop_New",
+"Choam_Shelter_Rooftop_02_New",
+"Choam_Shelter_Roof_Cover_Half_Left_New",
+"Choam_Shelter_Roof_Cover_Half_Right_New",
+"Choam_Shelter_Passageway_New",
+"Choam_Shelter_Door_Frame_Wide_New",
+"Choam_Shelter_Floor_Wedge_New",
+"Choam_Shelter_Foundation_Wedge_New",
+"Choam_Shelter_Roof_Wedge_Bottom_Half_New",
+"Choam_Shelter_Roof_Wedge_Top_Half_New",
+"Choam_Shelter_Rooftop_Wedge_New",
+"Choam_Shelter_Rooftop_Round_Corner_New",
+"Choam_Shelter_Rooftop_Round_Corner_Inverted_New",
+"MTX_Neut_HarvesterCaptainChair_Placeable"
+],
+"named": false
+},
+"ChoamLevel2Set": {
+"name": "Choam Level 2 Set",
+"desc": "",
+"pieces": [
+"Choam_Level2_Column",
+"Choam_Level2_Column_Corner",
+"Choam_Level2_Door_Frame",
+"Choam_Level2_Floor",
+"Choam_Level2_Floor_Round_Corner",
+"Choam_Level2_Floor_Round_Corner_Inverted",
+"Choam_Level2_Foundation",
+"Choam_Level2_Foundation_Round_Corner",
+"Choam_Level2_Hatch",
+"Choam_Level2_Passageway",
+"Choam_Level2_Pillar_Bottom",
+"Choam_Level2_Pillar_Middle",
+"Choam_Level2_Pillar_Top",
+"Choam_Level2_Railing",
+"Choam_Level2_Railing_Gate",
+"Choam_Level2_Railing_Inclined",
+"Choam_Level2_Railing_Inclined_Half",
+"Choam_Level2_Railing_Round_Corner",
+"Choam_Level2_Ramp",
+"Choam_Level2_Ramp_Half",
+"Choam_Level2_Ramp_Corner",
+"Choam_Level2_Ramp_Corner_Half",
+"Choam_Level2_Ramp_Corner_Inward",
+"Choam_Level2_Ramp_Corner_Half_Inward",
+"Choam_Level2_Roof_Half",
+"Choam_Level2_Roof_Corner_Half",
+"Choam_Level2_Roof_Corner_Half_Inward",
+"Choam_Level2_Roof_Cover_Bottom_Half_Left",
+"Choam_Level2_Roof_Cover_Bottom_Half_Right",
+"Choam_Level2_Roof_Round_Corner_Half",
+"Choam_Level2_Rooftop_01",
+"Choam_Level2_Rooftop_02",
+"Choam_Level2_Stairs",
+"Choam_Level2_Stairs_Half",
+"Choam_Level2_Stairs_Corner",
+"Choam_Level2_Stairs_Corner_Half",
+"Choam_Level2_Stairs_Corner_Inward",
+"Choam_Level2_Stairs_Corner_Half_Inward",
+"Choam_Level2_Wall_01",
+"Choam_Level2_Wall_02",
+"Choam_Level2_Wall_Half",
+"Choam_Level2_Wall_Round_Corner_01",
+"Choam_Level2_Wall_Round_Corner_02",
+"Choam_Level2_Wall_Round_Corner_Half",
+"Choam_Level2_Wall_Triangle_Bottom_Half_Left",
+"Choam_Level2_Wall_Triangle_Bottom_Half_Right",
+"Choam_Level2_Wall_Triangle_Bottom_Left",
+"Choam_Level2_Wall_Triangle_Bottom_Right",
+"Choam_Level2_Wall_Triangle_Top_Half_Left",
+"Choam_Level2_Wall_Triangle_Top_Half_Right",
+"Choam_Level2_Wall_Triangle_Top_Left",
+"Choam_Level2_Wall_Triangle_Top_Right",
+"Choam_Level2_Window_01",
+"Choam_Level2_Window_02",
+"Choam_Level2_Window_Round_Corner_01",
+"Choam_Level2_Window_Round_Corner_02",
+"Choam_Level2_Ladder",
+"Choam_Level2_PrudenceDoor",
+"Choam_Level2_Door_Frame_Wide",
+"Choam_Level2_Foundation_Wedge",
+"Choam_Level2_Floor_Wedge",
+"Choam_Level2_Roof_Wedge_Bottom_Half",
+"Choam_Level2_Roof_Wedge_Top_Half",
+"Choam_Level2_Rooftop_Wedge",
+"Choam_Level2_Rooftop_Round_Corner",
+"Choam_Level2_Rooftop_Round_Corner_Inverted",
+"Choam_Level2_Garage_Door_Frame"
+],
+"named": false
+},
+"ChoamSet": {
+"name": "Choam Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"HarkonnenSet": {
+"name": "Harkonnen Set",
+"desc": "",
+"pieces": [
+"Harkonnen_Outpost_Column",
+"Harkonnen_Outpost_Door_Frame",
+"Harkonnen_Outpost_Door_Frame_Tall",
+"Harkonnen_Outpost_Floor_Round_Corner",
+"Harkonnen_Outpost_Floor_Round_Inverted",
+"Harkonnen_Outpost_Floor",
+"Harkonnen_Outpost_Floor_Wedge",
+"Harkonnen_Outpost_Foundation",
+"Harkonnen_Outpost_Foundation_Round_Corner",
+"Harkonnen_Outpost_Foundation_Wedge",
+"Harkonnen_Outpost_Gate_Big",
+"Harkonnen_Outpost_Hatch",
+"Harkonnen_Outpost_Ladder",
+"Harkonnen_Outpost_Passageway",
+"Harkonnen_Outpost_Pillar_Bottom",
+"Harkonnen_Outpost_Pillar_Middle",
+"Harkonnen_Outpost_Pillar_Top",
+"Harkonnen_Outpost_Railing_Gate",
+"Harkonnen_Outpost_Railing",
+"Harkonnen_Outpost_Railing_Inclined",
+"Harkonnen_Outpost_Railing_Inclined_Half",
+"Harkonnen_Outpost_Railing_Round_Corner",
+"Harkonnen_Outpost_Ramp",
+"Harkonnen_Outpost_Ramp_Corner",
+"Harkonnen_Outpost_Ramp_Corner_Half",
+"Harkonnen_Outpost_Ramp_Corner_Half_Inward",
+"Harkonnen_Outpost_Ramp_Half",
+"Harkonnen_Outpost_Ramp_Corner_Inward",
+"Harkonnen_Outpost_Roof_01",
+"Harkonnen_Outpost_Roof_02",
+"Harkonnen_Outpost_Roof_Corner",
+"Harkonnen_Outpost_Roof_Cover_Bottom_Left",
+"Harkonnen_Outpost_Roof_Cover_Bottom_Right",
+"Harkonnen_Outpost_Roof_Round_Corner",
+"Harkonnen_Outpost_Roof_Wedge_Bottom",
+"Harkonnen_Outpost_Roof_Wedge_Top",
+"Harkonnen_Outpost_Rooftop",
+"Harkonnen_Outpost_Stairs",
+"Harkonnen_Outpost_Stairs_Corner",
+"Harkonnen_Outpost_Stairs_Corner_Half",
+"Harkonnen_Outpost_Stairs_Corner_Half_Inward",
+"Harkonnen_Outpost_Stairs_Corner_Inward",
+"Harkonnen_Outpost_Stairs_Half",
+"Harkonnen_Outpost_Wall_01",
+"Harkonnen_Outpost_Wall_02",
+"Harkonnen_Outpost_Wall_03",
+"Harkonnen_Outpost_Wall_Half",
+"Harkonnen_Outpost_Wall_Corner_Tall",
+"Harkonnen_Outpost_Wall_Inclined_Tall",
+"Harkonnen_Outpost_Wall_Round_Corner",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Half_Left",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Half_Right",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Left",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Right",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Tall_Left",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Tall_Right",
+"Harkonnen_Outpost_Wall_Triangle_Top_Half-Left",
+"Harkonnen_Outpost_Wall_Triangle_Top_Half_Right",
+"Harkonnen_Outpost_Wall_Triangle_Top_Left",
+"Harkonnen_Outpost_Wall_Triangle_Top_Right",
+"Harkonnen_Outpost_Wall_Triangle_Top_Tall_Left",
+"Harkonnen_Outpost_Wall_Triangle_Top_Tall_Right",
+"Harkonnen_Outpost_Window",
+"Harkonnen_Outpost_Window_Round_Corner",
+"Harkonnen_Outpost_Column_Corner",
+"Harkonnen_Outpost_PrudenceDoor_Frame",
+"Harkonnen_Outpost_Door_Frame_Wide",
+"Harkonnen_Outpost_Rooftop_02",
+"Harkonnen_Outpost_Roof_Corner_Inward",
+"Harkonnen_Outpost_Wall_04",
+"Harkonnen_Outpost_Wall_Round_Corner_02",
+"Harkonnen_Outpost_Wall_Round_Corner_03",
+"Harkonnen_Outpost_Wall_Round_Corner_Half",
+"Harkonnen_Outpost_Roof_Wedge_Bottom",
+"Harkonnen_Outpost_Roof_Wedge_Top",
+"Harkonnen_Outpost_Rooftop_Round_Corner",
+"Harkonnen_Outpost_Rooftop_Round_Inverted",
+"Harkonnen_Outpost_Rooftop_Wedge",
+"Harkonnen_Garage_Door_Frame"
+],
+"named": false
+},
+"AtreidesSet": {
+"name": "Atreides Set",
+"desc": "",
+"pieces": [
+"Atreides_Outpost_Column",
+"Atreides_Outpost_Door_Frame",
+"Atreides_Outpost_Door_Frame_Wide",
+"Atreides_Outpost_Floor",
+"Atreides_Outpost_Floor_Round_Corner",
+"Atreides_Outpost_Floor_Round_Corner_Inverted",
+"Atreides_Outpost_Floor_Triangle_Wide_Left",
+"Atreides_Outpost_Floor_Triangle_Wide_Right",
+"Atreides_Outpost_Floor_Wedge",
+"Atreides_Outpost_Foundation",
+"Atreides_Outpost_Foundation_Round_Corner",
+"Atreides_Outpost_Foundation_Wedge",
+"Atreides_Outpost_Hatch",
+"Atreides_Outpost_Passageway",
+"Atreides_Outpost_Pillar_Bottom",
+"Atreides_Outpost_Pillar_Middle",
+"Atreides_Outpost_Pillar_Top",
+"Atreides_Outpost_Railing",
+"Atreides_Outpost_Railing_Gate",
+"Atreides_Outpost_Railing_Inclined",
+"Atreides_Outpost_Railing_Inclined_Half",
+"Atreides_Outpost_Railing_Round_Corner",
+"Atreides_Outpost_Ramp",
+"Atreides_Outpost_Ramp_Corner",
+"Atreides_Outpost_Ramp_Corner_Half",
+"Atreides_Outpost_Ramp_Corner_Half_Inward",
+"Atreides_Outpost_Ramp_Corner_Inward",
+"Atreides_Outpost_Ramp_Edge_Wide_Left",
+"Atreides_Outpost_Ramp_Edge_Wide_Right",
+"Atreides_Outpost_Ramp_Half",
+"Atreides_Outpost_Ramp_Wide",
+"Atreides_Outpost_Roof_Corner_Half",
+"Atreides_Outpost_Roof_Corner_Half_Inward",
+"Atreides_Outpost_Roof_Cover_Bottom_Half_Left",
+"Atreides_Outpost_Roof_Cover_Bottom_Half_Right",
+"Atreides_Outpost_Roof_Cover_Top_Half_Left",
+"Atreides_Outpost_Roof_Cover_Top_Half_Right",
+"Atreides_Outpost_Roof_Half",
+"Atreides_Outpost_Roof_Round_Corner_Half",
+"Atreides_Outpost_Rooftop_01",
+"Atreides_Outpost_Rooftop_02",
+"Atreides_Outpost_Stair_Wide",
+"Atreides_Outpost_Stairs",
+"Atreides_Outpost_Stairs_Corner",
+"Atreides_Outpost_Stairs_Corner_Half",
+"Atreides_Outpost_Stairs_Corner_Half_Inward",
+"Atreides_Outpost_Stairs_Corner_Inward",
+"Atreides_Outpost_Stairs_Half",
+"Atreides_Outpost_Wall_01",
+"Atreides_Outpost_Wall_02",
+"Atreides_Outpost_Wall_03",
+"Atreides_Outpost_Wall_04",
+"Atreides_Outpost_Wall_Half",
+"Atreides_Outpost_Wall_Inclined_Wide_Left",
+"Atreides_Outpost_Wall_Inclined_Wide_Right",
+"Atreides_Outpost_Wall_Round_Corner_01",
+"Atreides_Outpost_Wall_Round_Corner_02",
+"Atreides_Outpost_Wall_Round_Corner_03",
+"Atreides_Outpost_Wall_Round_Corner_Half",
+"Atreides_Outpost_Wall_Triangle_Bottom_Half_Left",
+"Atreides_Outpost_Wall_Triangle_Bottom_Half_Right",
+"Atreides_Outpost_Wall_Triangle_Top_Half_Left",
+"Atreides_Outpost_Wall_Triangle_Top_Half_Right",
+"Atreides_Outpost_Wall_Triangle_Top_Left",
+"Atreides_Outpost_Wall_Triangle_Top_Right",
+"Atreides_Outpost_Wall_Triangle_Top_Wide_Left",
+"Atreides_Outpost_Wall_Triangle_Top_Wide_Right",
+"Atreides_Outpost_Window_01",
+"Atreides_Outpost_Window_02",
+"Atreides_Outpost_Column_Corner",
+"Atreides_Outpost_PrudenceDoor_Frame",
+"Atreides_Outpost_Ladder",
+"Atreides_Outpost_Wall_Triangle_Bottom_Right",
+"Atreides_Outpost_Wall_Triangle_Bottom_Left",
+"Atreides_Outpost_Door_Frame_Wide_02",
+"Atreides_Outpost_Gate_Big",
+"Atreides_Outpost_Door_Frame_Tall",
+"Atreides_Outpost_Roof_Wedge_Bottom_Half",
+"Atreides_Outpost_Roof_Wedge_Top_Half",
+"Atreides_Outpost_Window_04",
+"Atreides_Outpost_Window_03",
+"Atreides_Outpost_Rooftop_Wedge",
+"Atreides_Outpost_Rooftop_Round_Corner",
+"Atreides_Outpost_Rooftop_Round_Corner_Inverted",
+"Atreides_Garage_Door_Frame"
+],
+"named": false
+},
+"DebugSet": {
+"name": "Debug Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"BlockoutSet": {
+"name": "Blockout Set",
+"desc": "",
+"pieces": [
+"Blockout_Column",
+"Blockout_Column_Corner",
+"Blockout_Door_Frame",
+"Blockout_Door_Frame_Tall",
+"Blockout_Door_Frame_Wide",
+"Blockout_Floor",
+"Blockout_Floor_Round_Corner",
+"Blockout_Floor_Round_Corner_Inverted",
+"Blockout_Floor_Triangle_Wide_Left",
+"Blockout_Floor_Triangle_Wide_Right",
+"Blockout_Floor_Wedge",
+"Blockout_Foundation",
+"Blockout_Foundation_Round_Corner",
+"Blockout_Foundation_Wedge",
+"Blockout_Gate_Big",
+"Blockout_Hatch",
+"Blockout_Ladder",
+"Blockout_Passageway",
+"Blockout_Pillar_Bottom",
+"Blockout_Pillar_Middle",
+"Blockout_Pillar_Top",
+"Blockout_Railing",
+"Blockout_Railing_Gate",
+"Blockout_Railing_Inclined",
+"Blockout_Railing_Inclined_Half",
+"Blockout_Railing_Round_Corner",
+"Blockout_Ramp",
+"Blockout_Ramp_Corner",
+"Blockout_Ramp_Corner_Half",
+"Blockout_Ramp_Corner_Half_Inward",
+"Blockout_Ramp_Corner_Inward",
+"Blockout_Ramp_Edge_Wide_Left",
+"Blockout_Ramp_Wedge_Bottom",
+"Blockout_Ramp_Edge_Wide_Right",
+"Blockout_Ramp_Half",
+"Blockout_Ramp_Wedge_Top",
+"Blockout_Ramp_Wide",
+"Blockout_Roof",
+"Blockout_Roof_Corner",
+"Blockout_Roof_Corner_Half",
+"Blockout_Roof_Corner_Half_Inward",
+"Blockout_Roof_Corner_Inward",
+"Blockout_Roof_Cover_Bottom_Half_Left",
+"Blockout_Roof_Cover_Bottom_Half_Right",
+"Blockout_Roof_Cover_Bottom_Left",
+"Blockout_Roof_Cover_Bottom_Right",
+"Blockout_Roof_Cover_Top_Half_Left",
+"Blockout_Roof_Cover_Top_Half_Right",
+"Blockout_Roof_Cover_Top_Left",
+"Blockout_Roof_Cover_Top_Right",
+"Blockout_Roof_Half",
+"Blockout_Roof_Round_Corner",
+"Blockout_Roof_Round_Corner_Half",
+"Blockout_Roof_Wedge_Bottom",
+"Blockout_Roof_Wedge_Top",
+"Blockout_Rooftop",
+"Blockout_Stair_Wide",
+"Blockout_Stairs",
+"Blockout_Stairs_Corner",
+"Blockout_Stairs_Corner_Half",
+"Blockout_Stairs_Corner_Half_Inward",
+"Blockout_Stairs_Corner_Inward",
+"Blockout_Stairs_Half",
+"Blockout_Tower",
+"Blockout_Wall",
+"Blockout_Wall_Corner_Tall",
+"Blockout_Wall_Half",
+"Blockout_Wall_Inclined_Tall",
+"Blockout_Wall_Inclined_Wide_Left",
+"Blockout_Wall_Inclined_Wide_Right",
+"Blockout_Wall_Round_Corner",
+"Blockout_Wall_Round_Corner_Half",
+"Blockout_Wall_Triangle_Bottom_Half_Left",
+"Blockout_Wall_Triangle_Bottom_Half_Right",
+"Blockout_Wall_Triangle_Bottom_Left",
+"Blockout_Wall_Triangle_Bottom_Right",
+"Blockout_Wall_Triangle_Bottom_Tall_Left",
+"Blockout_Wall_Triangle_Bottom_Tall_Right",
+"Blockout_Wall_Triangle_Top_Half_Left",
+"Blockout_Wall_Triangle_Top_Half_Right",
+"Blockout_Wall_Triangle_Top_Left",
+"Blockout_Wall_Triangle_Top_Right",
+"Blockout_Wall_Triangle_Top_Tall_Left",
+"Blockout_Wall_Triangle_Top_Tall_Right",
+"Blockout_Wall_Triangle_Top_Wide_Left",
+"Blockout_Wall_Triangle_Top_Wide_Right",
+"Blockout_Window",
+"Blockout_Window_Round_Corner",
+"Blockout_Roof_Wedge_Bottom_Half",
+"Blockout_Roof_Wedge_Top_Half",
+"Blockout_Door_Frame_Garage",
+"Blockout_Arch"
+],
+"named": false
+},
+"BasicLighting_Patent": {
+"name": "Basic Lighting",
+"desc": "",
+"pieces": [
+"Choam_StandingLight_01_Placeable",
+"Choam_StandingLight_02_Placeable",
+"Choam_LightWall_Placeable",
+"Choam_LightFloor_Placeable",
+"Choam_Glowglobe_Placeable"
+],
+"named": false
+},
+"AdvLightingSet_Patent": {
+"name": "Adv Lighting Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"AdvFurnitureSet_Patent": {
+"name": "Adv Furniture Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"BasicFurniture_Patent": {
+"name": "Basic Furniture",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"BannerSet_Patent": {
+"name": "Banner Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"Carpets_Patent": {
+"name": "Carpets",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"DecorSet_Patent": {
+"name": "Decor Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"SmallCistern_Patent": {
+"name": "Small Cistern",
+"desc": "",
+"pieces": [
+"WaterCistern_Placeable"
+],
+"named": false
+},
+"ModStation_Patent": {
+"name": "Mod Station",
+"desc": "",
+"pieces": [
+"ModdingStation_Placeable"
+],
+"named": false
+},
+"RepairStation_Patent": {
+"name": "Repair Station",
+"desc": "",
+"pieces": [
+"RepairStation_Placeable"
+],
+"named": false
+},
+"BloodWaterExtraction_Patent": {
+"name": "Blood Water Extraction",
+"desc": "",
+"pieces": [
+"BloodWaterExtractor_Placeable"
+],
+"named": false
+},
+"Pentashield_Patent": {
+"name": "Pentashield",
+"desc": "",
+"pieces": [
+"Choam_PentashieldSurfaceHorizontal_Placeable",
+"Choam_PentashieldSurfaceVertical_Placeable"
+],
+"named": false
+},
+"SmallChemicalRefinery": {
+"name": "Small Chemical Refinery",
+"desc": "",
+"pieces": [
+"SmallChemicalRefinery_Placeable"
+],
+"named": false
+},
+"SmallSpiceRefinery": {
+"name": "Small Spice Refinery",
+"desc": "",
+"pieces": [
+"SpiceRefinery_Placeable"
+],
+"named": false
+},
+"SurvivalFabricator_Patent": {
+"name": "Survival Fabricator",
+"desc": "",
+"pieces": [
+"SurvivalFabricator_Placeable"
+],
+"named": false
+},
+"VehicleFabricator_Patent": {
+"name": "Vehicle Fabricator",
+"desc": "",
+"pieces": [
+"VehiclesFabricator_Placeable"
+],
+"named": false
+},
+"WeaponsFabricator_Patent": {
+"name": "Weapons Fabricator",
+"desc": "",
+"pieces": [
+"WeaponsFabricator_Placeable"
+],
+"named": false
+},
+"WearablesFabricator_Patent": {
+"name": "Wearables Fabricator",
+"desc": "",
+"pieces": [
+"WearablesFabricator_Placeable"
+],
+"named": false
+},
+"Windtrap_Patent": {
+"name": "Windtrap Patent",
+"desc": "Collects water from the environment",
+"pieces": [
+"Windtrap_Placeable"
+],
+"named": true
+},
+"MediumWaterCistern_Patent": {
+"name": "Medium Water Cistern",
+"desc": "",
+"pieces": [
+"MediumWaterCistern_Placeable"
+],
+"named": false
+},
+"MediumInsulatedCistern_Patent": {
+"name": "Medium Insulated Cistern",
+"desc": "",
+"pieces": [
+"MediumInsulatedCistern_Placeable"
+],
+"named": false
+},
+"WindturbineDirectional_Patent": {
+"name": "Windturbine Directional",
+"desc": "",
+"pieces": [
+"WindTurbineDirectional_Placeable"
+],
+"named": false
+},
+"SpiceSilo_Patent": {
+"name": "Spice Silo",
+"desc": "",
+"pieces": [
+"SpiceSilo_Placeable"
+],
+"named": false
+},
+"MediumOreRefinery_Patent": {
+"name": "Medium Ore Refinery",
+"desc": "",
+"pieces": [
+"MediumOreRefinery_Placeable"
+],
+"named": false
+},
+"MediumStorageContainer_Patent": {
+"name": "Medium Storage Container",
+"desc": "",
+"pieces": [
+"MediumStorageContainer_Placeable"
+],
+"named": false
+},
+"ChoamPentashieldSurfaceHorizontal_Patent": {
+"name": "Choam Pentashield Surface Horizontal",
+"desc": "",
+"pieces": [
+"Choam_PentashieldSurfaceHorizontal_Placeable"
+],
+"named": false
+},
+"ChoamPentashieldSurfaceVertical_Patent": {
+"name": "Choam Pentashield Surface Vertical",
+"desc": "",
+"pieces": [
+"Choam_PentashieldSurfaceVertical_Placeable"
+],
+"named": false
+},
+"MediumChemicalRefinery_Patent": {
+"name": "Medium Chemical Refinery",
+"desc": "",
+"pieces": [
+"MediumChemicalRefinery_Placeable"
+],
+"named": false
+},
+"MediumSpiceRefinery_Patent": {
+"name": "Medium Spice Refinery",
+"desc": "",
+"pieces": [
+"MediumSpiceRefinery_Placeable"
+],
+"named": false
+},
+"WaterCistern_Patent": {
+"name": "Water Cistern",
+"desc": "",
+"pieces": [
+"WaterCistern_Placeable"
+],
+"named": false
+},
+"LargeWaterCistern_Patent": {
+"name": "Large Water Cistern",
+"desc": "",
+"pieces": [
+"LargeWaterCistern_Placeable"
+],
+"named": false
+},
+"SmallInsulatedCistern_Patent": {
+"name": "Small Insulated Cistern",
+"desc": "",
+"pieces": [
+"SmallInsulatedCistern_Placeable"
+],
+"named": false
+},
+"LargeWindTrap_Patent": {
+"name": "Large Wind Trap",
+"desc": "",
+"pieces": [
+"LargeWindtrap_Placeable"
+],
+"named": false
+},
+"BasicFabricator_Patent": {
+"name": "Basic Fabricator",
+"desc": "",
+"pieces": [
+"Fabricator_Placeable"
+],
+"named": false
+},
+"WindTurbineOmni_Patent": {
+"name": "Wind Turbine Omni",
+"desc": "",
+"pieces": [
+"WindTurbineOmnidirectional_Placeable"
+],
+"named": false
+},
+"Totem_Patent": {
+"name": "Totem",
+"desc": "",
+"pieces": [
+"Totem_Placeable"
+],
+"named": false
+},
+"BasicContainer_Patent": {
+"name": "Basic Container",
+"desc": "",
+"pieces": [
+"GenericContainer_Placeable"
+],
+"named": false
+},
+"SmallOreRefinery_Patent": {
+"name": "Small Ore Refinery",
+"desc": "",
+"pieces": [
+"SmallOreRefinery_Placeable"
+],
+"named": false
+},
+"Recycler_Patent": {
+"name": "Recycler",
+"desc": "",
+"pieces": [
+"Recycler_Placeable"
+],
+"named": false
+},
+"FuelPoweredGenerator_Patent": {
+"name": "Fuel Powered Generator",
+"desc": "",
+"pieces": [
+"Generator_Placeable"
+],
+"named": false
+},
+"PowerGenerator_Patent": {
+"name": "Power Generator",
+"desc": "",
+"pieces": [
+"Generator_Placeable"
+],
+"named": false
+},
+"BloodWaterExtractionAdvanced_Patent": {
+"name": "Blood Water Extraction Advanced",
+"desc": "",
+"pieces": [
+"BloodWaterExtractionAdvanced_Placeable"
+],
+"named": false
+},
+"Deathstill_Patent": {
+"name": "Deathstill",
+"desc": "",
+"pieces": [
+"Deathstill_Placeable"
+],
+"named": false
+},
+"AdvancedWeaponsFabricator_Patent": {
+"name": "Advanced Weapons Fabricator",
+"desc": "Fabricates Advanced weapons",
+"pieces": [
+"AdvancedWeaponsFabricator_Placeable"
+],
+"named": true
+},
+"AdvancedWearablesFabricator_Patent": {
+"name": "Advanced Garment Fabricator",
+"desc": "Fabricates Advanced armor and stillsuits",
+"pieces": [
+"AdvancedWearablesFabricator_Placeable"
+],
+"named": true
+},
+"AdvancedVehiclesFabricator_Patent": {
+"name": "Advanced Vehicles Fabricator",
+"desc": "Fabricates Advanced vehicle parts",
+"pieces": [
+"Advanced_VehiclesFabricator_Placeable"
+],
+"named": true
+},
+"AdvancedSurvivalFabricator_Patent": {
+"name": "Advanced Survival Fabricator",
+"desc": "Fabricates Advanced survival items",
+"pieces": [
+"Advanced_SurvivalFabricator_Placeable"
+],
+"named": true
+},
+"LargeOreRefinery_Patent": {
+"name": "Large Ore Refinery",
+"desc": "Refines ores and ingots",
+"pieces": [
+"LargeOreRefinery_Placeable"
+],
+"named": true
+},
+"LargeSpiceRefinery_Patent": {
+"name": "Large Spice Refinery",
+"desc": "Processes Spice Sand into Spice Melange",
+"pieces": [
+"LargeSpiceRefinery_Placeable"
+],
+"named": true
+},
+"StorageContainer_Patent": {
+"name": "Storage Container",
+"desc": "A container for storing items",
+"pieces": [
+"StorageContainer_Placeable"
+],
+"named": true
+},
+"AtreidesFurniture_Patent": {
+"name": "Atreides Furniture",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"SpiceGenerator_Patent": {
+"name": "Spice Generator Patent",
+"desc": "A patent for a spice-powered generator",
+"pieces": [
+"SpiceGenerator_Placeable"
+],
+"named": true
+},
+"Choam_Decor_Patent": {
+"name": "Choam Decor",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"Hark_Decor_Patent": {
+"name": "Hark Decor",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"Atre_BasicLighting_Patent": {
+"name": "Atreides Basic Lights Set",
+"desc": "Atreides Basic Lights",
+"pieces": [
+"Atre_StandingLight_01_Placeable",
+"Atre_StandingLight_02_Placeable",
+"Atre_LightWall_Placeable",
+"Atre_LightFloor_Placeable",
+"Atre_Glowglobe_Placeable"
+],
+"named": true
+},
+"Atre_OfficeSet_Patent": {
+"name": "Atreides Office Furniture Set",
+"desc": "Atreides Office Furniture",
+"pieces": [
+"Atre_Shelves_01_Placeable",
+"Atre_PlateDeco_Placeable",
+"Atre_WallPartition_Placeable",
+"Atre_OfficeTable_Placeable",
+"Atre_Chair_2_Placeable",
+"Atre_Carpet_02_Placeable",
+"Atre_Couch_1_Placeable",
+"Atre_Deco_Trophy_01_Placeable",
+"Atre_Deco_Vase_01_C_Placeable",
+"Atre_Deco_Books_01_Placeable",
+"Atre_Deco_Books_02_Placeable",
+"Atre_Deco_Books_03_Placeable"
+],
+"named": true
+},
+"Atre_BedroomSet_Patent": {
+"name": "Atreides Bedroom Furniture Set",
+"desc": "Atreides Bedroom Furniture",
+"pieces": [
+"Atre_Bed_Placeable",
+"Atre_SmallStorageDrawer_Placeable",
+"Atre_SideTable_Placeable",
+"Atre_CouchCorner_1_Placeable",
+"Atre_CouchCorner_In_1_Placeable",
+"Atre_Wardrobe_Placeable",
+"Atre_Carpet_01_Placeable",
+"Atre_Deco_Vase_01_A_Placeable",
+"Atre_Deco_Vase_01_B_Placeable",
+"Atre_Deco_Vase_02_A_Placeable",
+"Atre_Deco_Vase_02_B_Placeable"
+],
+"named": true
+},
+"Atre_DiningRoomSet_Patent": {
+"name": "Atreides Dining Room Furniture Set",
+"desc": "Atreides Dining Room Furniture",
+"pieces": [
+"Atre_Banner_Placeable",
+"Atre_Chair_1_Placeable",
+"Atre_DiningTable_Placeable",
+"Atre_Deco_Hologram_Placeable",
+"Atre_WallArt_01_Placeable",
+"Atre_LightCeiling_Placeable",
+"Atre_Chandelier_Placeable",
+"Atre_Deco_Glass_Bowl_Placeable",
+"Atre_Deco_Glass_Carafe_Placeable",
+"Atre_Deco_Glass_SpiceJar_Placeable",
+"Atre_Deco_Glass_Cup_Placeable",
+"Atre_Deco_Plate_01_Placeable",
+"Atre_Deco_Plate_02_Placeable"
+],
+"named": true
+},
+"Hark_BasicLighting_Patent": {
+"name": "Harkonnen Basic Lights Set",
+"desc": "Harkonnen Basic Lights",
+"pieces": [
+"Hark_LightWall_Placeable",
+"Hark_StandingLight_01_Placeable",
+"Hark_StandingLight_02_Placeable",
+"Hark_FloorGlowGlobe_1_Player_Placeable"
+],
+"named": true
+},
+"Hark_OfficeSet_Patent": {
+"name": "Harkonnen Office Furniture Set",
+"desc": "Harkonnen Office Furniture",
+"pieces": [
+"Hark_Shelves_01_Placeable",
+"Hark_WallArt_02_Placeable",
+"Hark_WallPartition_Placeable",
+"Hark_OfficeTable_Placeable",
+"Hark_Chair_2_Placeable",
+"Hark_Carpet_01_Placeable",
+"Harkonnen_Bench_L_Placeable",
+"Hark_Deco_Trophy_Placeable",
+"Hark_Deco_Urn_Placeable",
+"Hark_Deco_Books_01_Placeable",
+"Hark_Deco_Books_02_Placeable",
+"Hark_Deco_Books_03_Placeable"
+],
+"named": true
+},
+"Hark_BedroomSet_Patent": {
+"name": "Harkonnen Bedroom Furniture Set",
+"desc": "Harkonnen Bedroom Furniture",
+"pieces": [
+"Hark_Bed_Placeable",
+"Hark_SmallStorageDrawer_Placeable",
+"Hark_SideTable_Placeable",
+"Harkonnen_Bench_R_Placeable",
+"Hark_Wardrobe_Placeable",
+"Hark_Carpet_02_Placeable",
+"Hark_Deco_Vase_01_Placeable",
+"Hark_Deco_Vase_02_Placeable",
+"Hark_Deco_Totem_01_Placeable",
+"Hark_Deco_Totem_02_Placeable"
+],
+"named": true
+},
+"Hark_DiningRoomSet_Patent": {
+"name": "Harkonnen Dining Room Furniture Set",
+"desc": "Harkonnen Dining Room Furniture",
+"pieces": [
+"Hark_LightCeiling_01_Placeable",
+"Hark_LightCeiling_02_Placeable",
+"Hark_Banner_Placeable",
+"Hark_Chair_1_Placeable",
+"Hark_DiningTable_Placeable",
+"Hark_Deco_Hologram_Placeable",
+"Hark_WallArt_01_Placeable",
+"Hark_Deco_Bowl_Placeable",
+"Hark_Deco_Carafe_Placeable",
+"Hark_Deco_SpiceJar_Placeable",
+"Hark_Deco_Cup_01_Placeable",
+"Hark_Deco_Cup_02_Placeable",
+"Hark_Deco_Plate_01_Placeable",
+"Hark_Deco_Plate_02_Placeable"
+],
+"named": true
+},
+"Choam_AdvLighting_Patent": {
+"name": "CHOAM Advanced Lights Set",
+"desc": "CHOAM Ceiling Lights",
+"pieces": [
+"Choam_LightCeiling_01_Placeable",
+"Choam_LightCeiling_02_Placeable"
+],
+"named": true
+},
+"Choam_OfficeSet_Furniture_Patent": {
+"name": "CHOAM Office Furniture Set",
+"desc": "CHOAM Office Furniture Placeables",
+"pieces": [
+"Choam_Shelves_01_Placeable",
+"Choam_WallArt_02_Placeable",
+"Choam_WallPartition_Placeable",
+"Choam_OfficeTable_Placeable",
+"Choam_Chair_1_Placeable",
+"Choam_Carpet_01_Placeable",
+"Choam_Couch_1_Placeable"
+],
+"named": true
+},
+"Choam_BedroomSet_Furniture_Patent": {
+"name": "CHOAM Bedroom Furniture Set",
+"desc": "CHOAM Bedroom Furniture Placeables",
+"pieces": [
+"Choam_Bed_Placeable",
+"Choam_SmallStorageDrawer_Placeable",
+"Choam_SideTable_Placeable",
+"Choam_CouchBlend_1_Placeable",
+"Choam_CouchBlend_2_Placeable",
+"Choam_CouchCorner_1_Placeable",
+"Choam_CouchCorner_In_1_Placeable",
+"Choam_Wardrobe_Placeable",
+"Choam_Carpet_02_Placeable"
+],
+"named": true
+},
+"Choam_DiningRoomSet_Furniture_Patent": {
+"name": "CHOAM Dining Room Furniture Set",
+"desc": "CHOAM Dining Room Furniture Placeables",
+"pieces": [
+"Choam_Banner_Placeable",
+"OutpostChair_1_Placeable",
+"Choam_DiningTable_Placeable",
+"Choam_Deco_Hologram_Placeable",
+"Choam_WallArt_01_Placeable"
+],
+"named": true
+},
+"Choam_OfficeSet_SmallDeco_Patent": {
+"name": "CHOAM Office Small Decorations Set",
+"desc": "CHOAM Office Small Decorative Items",
+"pieces": [
+"Choam_Deco_Trophy_Placeable",
+"Choam_Deco_Vase_03_Placeable",
+"Choam_Deco_Books_01_Placeable",
+"Choam_Deco_Books_02_Placeable",
+"Choam_Deco_Books_03_Placeable"
+],
+"named": true
+},
+"Choam_BedroomSet_SmallDeco_Patent": {
+"name": "CHOAM Bedroom Small Decorations Set",
+"desc": "CHOAM Bedroom Small Decorative Items",
+"pieces": [
+"Choam_Deco_Vase_01A_Placeable",
+"Choam_Deco_Vase_01B_Placeable",
+"Choam_Deco_Vase_02A_Placeable",
+"Choam_Deco_Vase_02B_Placeable"
+],
+"named": true
+},
+"Choam_DiningRoomSet_SmallDeco_Patent": {
+"name": "CHOAM Dining Room Small Decorations Set",
+"desc": "CHOAM Dining Room Small Decorative Items",
+"pieces": [
+"Choam_Deco_Bowl_Placeable",
+"Choam_Deco_Carafe_Placeable",
+"Choam_Deco_SpiceJar_Placeable",
+"Choam_Deco_Cup_01_Placeable",
+"Choam_Deco_Cup_02_Placeable",
+"Choam_Deco_Plate_01_Placeable",
+"Choam_Deco_Plate_02_Placeable"
+],
+"named": true
+},
+"Neut_JailSet_Patent": {
+"name": "Neut Jail Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"MTX_Neut_JailSet_Patent": {
+"name": "Jail Building Set",
+"desc": "",
+"pieces": [
+"MTX_Neut_JailSet_Floor",
+"MTX_Neut_JailSet_Foundation",
+"MTX_Neut_JailSet_Wall_01",
+"MTX_Neut_JailSet_Wall_02",
+"MTX_Neut_JailSet_Door_Frame"
+],
+"named": true
+},
+"MTX_Neut_JailSet_WaterPoint_Patent": {
+"name": "Jail Waterpoint",
+"desc": "",
+"pieces": [
+"Neut_JailSet_WaterPoint_Placeable"
+],
+"named": true
+},
+"MTX_Neut_JailSet_Bed_Patent": {
+"name": "Jail Bed",
+"desc": "",
+"pieces": [
+"Neut_JailSet_Bed_Placeable"
+],
+"named": true
+},
+"Neut_Statues_Patent": {
+"name": "Neut Statues",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"MTX_Neut_Statues_DesertMouse_Patent": {
+"name": "Muad'Dib Statue",
+"desc": "",
+"pieces": [
+"Neut_Statue_DesertMouse_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Statues_KulonDonkey_Patent": {
+"name": "Kulon Statue",
+"desc": "",
+"pieces": [
+"Neut_Statue_KulonDonkey_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Statues_LargeSandworm_Patent": {
+"name": "Sandworm Statue",
+"desc": "",
+"pieces": [
+"Neut_Statue_LargeSandworm_Placeable"
+],
+"named": true
+},
+"LandingPadSet_Patent": {
+"name": "Landing Pad Set",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"Neut_Gunner_Patent": {
+"name": "Neut Gunner",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"MTX_Neut_GunnerSet_Patent": {
+"name": "MTX Neut Gunner Set",
+"desc": "",
+"pieces": [
+"MTX_Neut_Gunner_Column",
+"MTX_Neut_Gunner_Floor",
+"MTX_Neut_Gunner_Foundation",
+"MTX_Neut_Gunner_Railing_01",
+"MTX_Neut_Gunner_Railing_02",
+"MTX_Neut_Gunner_Railing_Round_Corner"
+],
+"named": false
+},
+"MTX_Neut_Gunner_WorkingTable_Patent": {
+"name": "Sentinel Work Table",
+"desc": "",
+"pieces": [
+"Neut_Gunner_WorkingTable_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Gunner_DismantledScattergun_Patent": {
+"name": "Dismantled Scattergun",
+"desc": "",
+"pieces": [
+"Neut_Gunner_DismantledScattergun_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Gunner_GunStorage_Patent": {
+"name": "Sentinel Gun Storage",
+"desc": "",
+"pieces": [
+"Neut_Gunner_GunStorage_Placeable"
+],
+"named": true
+},
+"Atreides_Movie_Patent": {
+"name": "Atreides Movie",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"MTX_Atreides_MovieGlowglobe_Patent": {
+"name": "Atreides Glowglobe",
+"desc": "",
+"pieces": [
+"Atre_DLC_Glowglobe_Placeable"
+],
+"named": true
+},
+"Neut_KaitainHolographicGarden_Patent": {
+"name": "Neut Kaitain Holographic Garden",
+"desc": "",
+"pieces": [],
+"named": false
+},
+"MTX_Neut_Kaitan_BirdHouse_Patent": {
+"name": "Kaitain Birdhouse",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_BirdHouse_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_LargeFountain_Patent": {
+"name": "Kaitain Holographic Fountain",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_LargeFountain_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_SmallFountain_Patent": {
+"name": "Kaitain Holographic Small Fountain",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_SmallFountain_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Flowerbed_Straight_Patent": {
+"name": "Kaitain Holographic Flowerbed",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_Flowerbed_Straight_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Flowerbed_Corner_Patent": {
+"name": "Kaitain Holographic Flowerbed Corner",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_Flowerbed_Corner_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Bush_Straight_Patent": {
+"name": "Kaitain Holographic Bush Planter",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_Bush_Straight_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Bush_Corner_Patent": {
+"name": "Kaitain Holographic Bush Planter Corner",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_Bush_Corner_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Tree_Straight_Patent": {
+"name": "Kaitain Holographic Tree Planter",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_Tree_Straight_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Tree_Corner_Patent": {
+"name": "Kaitain Holographic Tree Planter Corner",
+"desc": "",
+"pieces": [
+"Neut_Kaitain_Tree_Corner_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Kaitan_Cheops_Patent": {
+"name": "Kaitain Cheops Board",
+"desc": "",
+"pieces": [
+"Neut_Kaitan_Cheops_Placeable"
+],
+"named": true
+},
+"MTX_Neut_StrategyTable_Patent": {
+"name": "MTX Neut Strategy Table",
+"desc": "",
+"pieces": [
+"Neut_StrategyTable_Placeable"
+],
+"named": false
+},
+"MTX_Neut_Miniature_AtreidesTroops_Patent": {
+"name": "Atreides Troop Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_AtreidesTroops_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_HarkonnenTroops_Patent": {
+"name": "Harkonnen Troop Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_HarkonnenTroops_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_FremenTroops_Patent": {
+"name": "Fremen Troop Miniature",
+"desc": "",
+"pieces": [],
+"named": true
+},
+"MTX_Neut_Miniature_SpiceField_Patent": {
+"name": "Spice Blow Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_SpiceField_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_StrategyFlag_Patent": {
+"name": "Opulent Flag Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_StrategyFlag_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_Worm_Patent": {
+"name": "Sandworm Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_Worm_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_Harvester_Patent": {
+"name": "Harvester Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_Harvester_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_Ornithopter_Patent": {
+"name": "Ornithopter Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_Ornithopter_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_Sandbike_Patent": {
+"name": "Sandbike Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_Sandbike_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_Tank_Patent": {
+"name": "Tank Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_Tank_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Miniature_Transport_Patent": {
+"name": "Carrier Ornithopter Miniature",
+"desc": "",
+"pieces": [
+"Neut_Miniature_Transport_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Strategy_RoomSign_Patent": {
+"name": "Extravagant Holographic Room Sign",
+"desc": "",
+"pieces": [
+"Neut_Strategy_RoomSign_Placeable"
+],
+"named": true
+},
+"Totem_Small_Patent": {
+"name": "Totem Small",
+"desc": "",
+"pieces": [
+"Totem_Small_Placeable"
+],
+"named": false
+},
+"MTX_Frem_FremKit_Glowglobe_Patent": {
+"name": "Fremen Suspensor Lamp",
+"desc": "",
+"pieces": [
+"MTX_Frem_FremKit_Glowglobe_Placeable"
+],
+"named": true
+},
+"MTX_Frem_FremKit_BoardGame_Patent": {
+"name": "Fremen Board Game",
+"desc": "",
+"pieces": [
+"MTX_Frem_FremKit_BoardGame_Placeable"
+],
+"named": true
+},
+"MTX_Frem_FremKit_Stove_Patent": {
+"name": "Fremen Stove",
+"desc": "",
+"pieces": [
+"MTX_Frem_FremKit_Stove_Placeable"
+],
+"named": true
+},
+"MTX_Neut_StrategyRoomCarpet_Patent": {
+"name": "Lavish Room Large Carpet",
+"desc": "",
+"pieces": [
+"MTX_Neut_StrategyRoomCarpet_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Chair_Patent": {
+"name": "Chair",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Chair_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Bench_Patent": {
+"name": "Bench",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Bench_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_LargeCarpet_Patent": {
+"name": "Large Carpet",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_LargeCarpet_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_SmallCarpet_Patent": {
+"name": "Small Carpet",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_SmallCarpet_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_DecorativePlate_Patent": {
+"name": "Wall Art",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_DecorativePlate_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Painting_Patent": {
+"name": "Painting",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Painting_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_LargeDesk_Patent": {
+"name": "Desk",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_LargeDesk_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Table_Patent": {
+"name": "Table",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Table_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Dresser_Patent": {
+"name": "Dresser",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Dresser_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Cabinet_Patent": {
+"name": "Cabinet",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Cabinet_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Bonsai_Patent": {
+"name": "Bonsai Tree",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Bonsai_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_BullStatue_Patent": {
+"name": "Bull Statue",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_BullStatue_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_DecorativeBox_Patent": {
+"name": "Decorative Box",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_DecorativeBox_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_DecorativeWineBottle_Patent": {
+"name": "Wine Bottle",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_DecorativeWineBottle_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_FoodPlatter_01_Patent": {
+"name": "Platter",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_FoodPlatter_01_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Glass_01_Patent": {
+"name": "Drinking Glass",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Glass_01_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Glass_02_Patent": {
+"name": "Drinking Glass 2",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Glass_02_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_PlateCutlery_Patent": {
+"name": "Plate",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_PlateCutlery_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_CaladanCastle_Hologram_Patent": {
+"name": "Castle Hologram",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_CaladanCastle_Hologram_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Vase_01_Patent": {
+"name": "Vase",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_Vase_01_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_WaterPitcher_Patent": {
+"name": "Water Pitcher",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_WaterPitcher_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_WindChimes_Patent": {
+"name": "Windchimes",
+"desc": "",
+"pieces": [
+"MTX_Atre_Movie_WindChimes_Placeable"
+],
+"named": true
+},
+"MTX_Atre_LetosSeal_Patent": {
+"name": "Leto's Seal Patent",
+"desc": "",
+"pieces": [
+"MTX_Atre_LetosSeal_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Flagpole_Patent": {
+"name": "Atreides Flagpole",
+"desc": "",
+"pieces": [
+"MTX_Atre_Flagpole_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Hologram_CaladanEmblem_Patent": {
+"name": "Caladan Emblem Hologram Projector",
+"desc": "TBD",
+"pieces": [
+"MTX_Atre_Hologram_CaladanEmblem_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanicSet_SandbikePainting_Patent": {
+"name": "Sandbike Engraving",
+"desc": "An engraving of the technical specifications for the sandbike",
+"pieces": [
+"MTX_Neut_DesertMechanicSet_SandbikePainting_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanicSet_Toolbox_Patent": {
+"name": "Toolbox",
+"desc": "",
+"pieces": [
+"MTX_Neut_DesertMechanicSet_Toolbox_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanicSet_Sign_Patent": {
+"name": "Sandbike Sign Patent",
+"desc": "A sign depicting a sandbike",
+"pieces": [
+"MTX_Neut_DesertMechanicSet_Sign_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanicSet_Patent": {
+"name": "Desert Mechanic Building Set",
+"desc": "",
+"pieces": [
+"MTX_Neut_DesertMechanic_Door_Frame_Wide",
+"MTX_Neut_DesertMechanic_Floor",
+"MTX_Neut_DesertMechanic_Foundation",
+"MTX_Neut_DesertMechanic_Wall"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanicSet_Glowglobe_Patent": {
+"name": "Desert Mechanic Glowglobe",
+"desc": "TBD",
+"pieces": [
+"MTX_Neut_DesertMechanicSet_Glowglobe_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanic_StorageContainer_Patent": {
+"name": "Container of Scrap",
+"desc": "A container full of scrap from across the desert",
+"pieces": [
+"MTX_Neut_DesertMechanic_StorageContainer_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanicSet_Projector_Patent": {
+"name": "Desert Mechanic Hologram Projector",
+"desc": "TBD",
+"pieces": [
+"MTX_Neut_DesertMechanicSet_Projector_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanic_DismantledSandbike_Patent": {
+"name": "Dismantled Sandbike",
+"desc": "A broken down sandbike, useful only as decoration",
+"pieces": [
+"MTX_Neut_DesertMechanic_DismantledSandbike_Placeable"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanic_SpareWheel_Patent": {
+"name": "Shattered Tread Patent",
+"desc": "The shattered tread of a sandbike",
+"pieces": [
+"MTX_Neut_DesertMechanic_SpareWheel_Placeable"
+],
+"named": true
+},
+"MTX_LandingPadSet_Patent": {
+"name": "Landing Pad Building Set",
+"desc": "TBD",
+"pieces": [
+"LandingPad_Floor",
+"LandingPad_Floor_Round_Corner",
+"LandingPad_Wall",
+"LandingPad_Wall_Triangle_Top_Left"
+],
+"named": true
+},
+"Fremen_Deathstill_Patent": {
+"name": "Fremen Deathstill",
+"desc": "Extracts water from a corpse",
+"pieces": [
+"Fremen_Deathstill_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Movie_Window_Patent": {
+"name": "Caladan Breakfast Room Window",
+"desc": "TBD",
+"pieces": [],
+"named": true
+},
+"MTX_Atreides_Outpost_Bookshelf_Patent": {
+"name": "Bookshelf Wall",
+"desc": "TBD",
+"pieces": [],
+"named": true
+},
+"MTX_Atreides_Outpost_FloorLight_Movie_Patent": {
+"name": "Ceiling with Lights",
+"desc": "TBD",
+"pieces": [],
+"named": true
+},
+"MTX_Atreides_Outpost_DoorFrame_Patent": {
+"name": "Wooden Passageway",
+"desc": "TBD",
+"pieces": [],
+"named": true
+},
+"MTX_Caladan_Movie_Bed_Patent": {
+"name": "Caladan Bed",
+"desc": "TBD",
+"pieces": [
+"MTX_Caladan_Movie_Bed_Placeable"
+],
+"named": true
+},
+"MTX_Caladan_Movie_Mural_Patent": {
+"name": "Caladan Mural",
+"desc": "TBD",
+"pieces": [
+"MTX_Caladan_Movie_Mural_Placeable"
+],
+"named": true
+},
+"MTX_Caladan_Movie_Cushion_Patent": {
+"name": "Caladan Cushion",
+"desc": "TBD",
+"pieces": [
+"MTX_Caladan_Movie_Cushion_Placeable"
+],
+"named": true
+},
+"MTX_Neut_MuadDibCage_Patent": {
+"name": "Terrarium of Muad’dib",
+"desc": "A terrarium containing a live muad'dib",
+"pieces": [
+"MTX_Neut_MuadDibCage_Placeable"
+],
+"named": true
+},
+"MTX_Neut_MuralPainting_01_Patent": {
+"name": "N/A - Auto generated",
+"desc": "",
+"pieces": [
+"MTX_Neut_MuralPainting_01_Placeable"
+],
+"named": true
+},
+"MTX_Neut_MuralPainting_02_Patent": {
+"name": "N/A - Auto generated",
+"desc": "",
+"pieces": [
+"MTX_Neut_MuralPainting_02_Placeable"
+],
+"named": true
+},
+"MTX_Neut_MuralPainting_03_Patent": {
+"name": "N/A - Auto generated",
+"desc": "",
+"pieces": [
+"MTX_Neut_MuralPainting_03_Placeable"
+],
+"named": true
+},
+"MTX_Atre_BreakfastRoomSet_Patent": {
+"name": "EMPTY_TEXT",
+"desc": "",
+"pieces": [
+"MTX_Atre_BreakfastRoom_Floor",
+"MTX_Atre_BreakfastRoom_FloorRoundCorner",
+"MTX_Atre_BreakfastRoom_Wall_01",
+"MTX_Atre_BreakfastRoom_WallRoundCorner",
+"MTX_Atreides_Outpost_Window_Movie",
+"MTX_Atreides_Outpost_Bookshelf",
+"MTX_Atreides_Outpost_DoorFrame",
+"MTX_Atreides_Outpost_FloorLight_Movie"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Column_Patent": {
+"name": "Observer Column",
+"desc": "A column in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Column"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Floor_Patent": {
+"name": "Observer Floor",
+"desc": "A floor in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Floor"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Foundation_Patent": {
+"name": "Observer Foundation",
+"desc": "A foundation in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Foundation"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Passageway_Patent": {
+"name": "Observer Passageway",
+"desc": "A passageway in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Passageway"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Stairs_Patent": {
+"name": "Observer Stairs",
+"desc": "Stairs in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Stairs"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Wall_01_Patent": {
+"name": "Observer Wall",
+"desc": "A wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Wall_01"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Window_01_Patent": {
+"name": "Observer Window",
+"desc": "A window in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Window_01"
+],
+"named": true
+},
+"Beta_Plaque_Patent": {
+"name": "Memorial Plaque",
+"desc": "",
+"pieces": [
+"Beta_Plaque_Placeable"
+],
+"named": true
+},
+"MTX_Neut_Statue_Bat_Patent": {
+"name": "Chiroptera Statue",
+"desc": "XX_Bat Statue Patent",
+"pieces": [
+"MTX_Neut_Statue_Bat_Placeable"
+],
+"named": true
+},
+"Emperor_Paintings_Set_Patent": {
+"name": "Shaddam IV Portraits",
+"desc": "A set of Paintings of His Imperial Excellency",
+"pieces": [
+"Atre_Emperor_Painting_Placeable",
+"Hark_Emperor_Painting_Placeable"
+],
+"named": true
+},
+"MTX_Choam_KirabTurret_Placeable": {
+"name": "Miniature Harkonnen Turret Statue Placeable",
+"desc": "",
+"pieces": [
+"MTX_Choam_KirabTurret_Placeable"
+],
+"named": false
+},
+"MTX_Choam_TwitchReward_Rooftop_Patent": {
+"name": "Observer Rooftop",
+"desc": "A rooftop in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Rooftop"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Hatch_Door_Patent": {
+"name": "Observer Hatch",
+"desc": "A hatch door in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Hatch"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Wall_Half_Patent": {
+"name": "Observer Half Wall",
+"desc": "A half wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Wall_Half"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Column_02_Patent": {
+"name": "Observer Column 2",
+"desc": "A column in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Column_02"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Ladder_Patent": {
+"name": "Observer Ladder",
+"desc": "A ladder in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Ladder"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Door_Patent": {
+"name": "Observer Door",
+"desc": "A door in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Door"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Wall_02_Patent": {
+"name": "Observer Wall 2",
+"desc": "A wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Wall_02"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Railing_01_Patent": {
+"name": "Observer Railing",
+"desc": "A railing in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Railing_01"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Stairs_Corner_Patent": {
+"name": "Observer Stairs Corner",
+"desc": "Stairs in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Stairs_Corner"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Stairs_Corner_Inverted_Patent": {
+"name": "Observer Stairs Corner Inverted",
+"desc": "Stairs in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Stairs_Corner_Inverted"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Wall_Round_Patent": {
+"name": "Observer Rounded Wall",
+"desc": "A wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Wall_Round"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Window_Round_Patent": {
+"name": "MTX Choam Twitch Reward Window Round",
+"desc": "",
+"pieces": [
+"MTX_Choam_TwitchReward_Window_Round"
+],
+"named": false
+},
+"MTX_Choam_TwitchReward_Railing_Inclined_Patent": {
+"name": "Observer Inclined Railing",
+"desc": "A railing in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Railing_Inclined"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Railing_Gate_Patent": {
+"name": "Observer Railing Gate",
+"desc": "A railing in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Railing_Gate"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Railing_Corner_Round_Patent": {
+"name": "MTX Choam Twitch Reward Railing Corner Round",
+"desc": "",
+"pieces": [
+"MTX_Choam_TwitchReward_Railing_Corner_Round"
+],
+"named": false
+},
+"MTX_Choam_TwitchReward_Floor_Round_Patent": {
+"name": "Observer Rounded Floor",
+"desc": "A floor in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Floor_Round"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Foundation_Round_Corner_Patent": {
+"name": "Observer Rounded Foundation",
+"desc": "A foundation in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Foundation_Round_Corner"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Pillar_Bottom_Patent": {
+"name": "Observer Pillar Bottom",
+"desc": "A pillar in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Pillar_Bottom"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Pillar_Middle_Patent": {
+"name": "Observer Pillar Middle",
+"desc": "A pillar in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Pillar_Middle"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Pillar_Top_Patent": {
+"name": "Observer Pillar Top",
+"desc": "A pillar in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Pillar_Top"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Triangle_Top_Left_Patent": {
+"name": "Observer Triangle Wall Top Left",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Triangle_Top_Left"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Triangle_Top_Right_Patent": {
+"name": "Observer Triangle Wall Top Right",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Triangle_Top_Right"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Triangle_Bottom_Right_Patent": {
+"name": "Observer Triangle Wall Bottom Right",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Triangle_Bottom_Right"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Triangle_Bottom_Left_Patent": {
+"name": "Observer Triangle Wall Bottom Left",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Triangle_Bottom_Left"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Left_Patent": {
+"name": "Observer Half Triangle Wall Top Left",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Left"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Right_Patent": {
+"name": "Observer Half Triangle Wall Top Right",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Right"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Left_Patent": {
+"name": "Observer Half Triangle Wall Bottom Left",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Left"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Right_Patent": {
+"name": "Observer Half Triangle Wall Bottom Right",
+"desc": "A triangle wall in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Right"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Roof_Corner_Patent": {
+"name": "Observer Roof Corner",
+"desc": "A roof in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Roof_Corner"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Roof_Corner_Inverted_Patent": {
+"name": "Observer Angled Roof Inwards Corner",
+"desc": "A roof in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Roof_Corner_Inverted"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Roof_Corner_Round_Patent": {
+"name": "Observer Rounded Tall Roof Corner",
+"desc": "A roof in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Roof_Corner_Round"
+],
+"named": true
+},
+"MTX_Choam_TwitchReward_Roof_Half_Patent": {
+"name": "Observer Angled Roof",
+"desc": "A roof in the CHOAM Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Roof_Half"
+],
+"named": true
+},
+"MTX_Neut_DesertMechanic_PlacableSet_Patent": {
+"name": "Desert Mechanic Placeable Set",
+"desc": "A set of assorted junk that can be only be described as the \"Desert Mechanic\" aesthetic.",
+"pieces": [
+"MTX_Neut_DesertMechanicSet_SandbikePainting_Placeable",
+"MTX_Neut_DesertMechanic_DismantledSandbike_Placeable",
+"MTX_Neut_DesertMechanicSet_Sign_Placeable",
+"MTX_Neut_DesertMechanic_StorageContainer_Placeable",
+"MTX_Neut_DesertMechanic_SpareWheel_Placeable"
+],
+"named": true
+},
+"MTX_Neut_HarvesterCaptainChair_Placeable": {
+"name": "Harvester Captain's Chair",
+"desc": "A comfortable chair salvaged from the wreck of a spice harvester.",
+"pieces": [
+"MTX_Neut_HarvesterCaptainChair_Placeable"
+],
+"named": true
+},
+"MTX_Neut_TeleporterDevice_Placeable": {
+"name": "Inert Research Module",
+"desc": "A memento of your venture into a long-forgotten laboratory.",
+"pieces": [
+"MTX_Neut_TeleporterDevice_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Troopship_Relief_Placeable_Patent": {
+"name": "Atreides Warship Carving",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Atre_Troopship_Relief_Placeable"
+],
+"named": true
+},
+"MTX_Atre_Flagship_Relief_Placeable_Patent": {
+"name": "Atreides Flagship Wall Art",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Atre_Flagship_Relief_Placeable"
+],
+"named": true
+},
+"MTX_Neut_TwitchReward_Makeshift_Lampost_Patent": {
+"name": "MTX Neut Twitch Reward Makeshift Lampost",
+"desc": "",
+"pieces": [
+"MTX_Neut_Raider_Makeshift_Lampost_Placeable"
+],
+"named": false
+},
+"MTX_Neut_DesertMechanicSet02_Patent": {
+"name": "Desert Mechanic Set 02",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Neut_DesertMechanic_Center_Column",
+"MTX_Neut_DesertMechanic_Floor_Wedge",
+"MTX_Neut_DesertMechanic_Foundation_Wedge",
+"MTX_Neut_DesertMechanic_Prudence_Door_Frame",
+"MTX_Neut_DesertMechanic_Railing",
+"MTX_Neut_DesertMechanic_Ramp",
+"MTX_Neut_DesertMechanic_Rooftop",
+"MTX_Neut_DesertMechanic_Rooftop_Corner",
+"MTX_Neut_DesertMechanic_Rooftop_Corner_Inverted",
+"MTX_Neut_DesertMechanic_Staircase",
+"MTX_Neut_DesertMechanic_Wall_02",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Bottom_Left",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Bottom_Right",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Top_Left",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Top_Right",
+"MTX_Neut_DesertMechanic_Window_01",
+"MTX_Neut_DesertMechanic_Corner_Column",
+"MTX_Neut_DesertMechanic_Garage_Door_Frame",
+"MTX_Neut_DesertMechanic_Passageway"
+],
+"named": true
+},
+"MTX_Smug_BuildingSet_Patent": {
+"name": "Smuggler Building Set",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Smug_Column",
+"MTX_Smug_Door_Frame",
+"MTX_Smug_Door_Frame_Wide",
+"MTX_Smug_Floor",
+"MTX_Smug_Floor_Round_Corner",
+"MTX_Smug_Floor_Round_Corner_Inverted",
+"MTX_Smug_Floor_Wedge",
+"MTX_Smug_Foundation",
+"MTX_Smug_Foundation_Round_Corner",
+"MTX_Smug_Foundation_Wedge",
+"MTX_Smug_Hatch",
+"MTX_Smug_Ladder",
+"MTX_Smug_Pillar_Bottom",
+"MTX_Smug_Pillar_Middle",
+"MTX_Smug_Pillar_Top",
+"MTX_Smug_Railing",
+"MTX_Smug_Railing_Gate",
+"MTX_Smug_Railing_Inclined_Half_Left",
+"MTX_Smug_Railing_Inclined_Left",
+"MTX_Smug_Railing_Round_Corner",
+"MTX_Smug_Ramp",
+"MTX_Smug_Ramp_Corner",
+"MTX_Smug_Ramp_Corner_Half",
+"MTX_Smug_Ramp_Corner_Inverted",
+"MTX_Smug_Ramp_Corner_Inverted_Half",
+"MTX_Smug_Ramp_Half",
+"MTX_Smug_Roof_Corner_Half_01",
+"MTX_Smug_Roof_Corner_Half_02",
+"MTX_Smug_Roof_Corner_Half_inverted_01",
+"MTX_Smug_Roof_Corner_Half_Inverted_02",
+"MTX_Smug_Roof_Half_01",
+"MTX_Smug_Roof_Half_02",
+"MTX_Smug_Roof_Round_Corner_Half_01_A",
+"MTX_Smug_Roof_Round_Corner_Half_02",
+"MTX_Smug_Roof_Wedge_Bottom_Half",
+"MTX_Smug_Rooftop_01",
+"MTX_Smug_Rooftop_02",
+"MTX_Smug_Rooftop_Round_Corner",
+"MTX_Smug_Rooftop_Round_Corner_Inverted",
+"MTX_Smug_Rooftop_Wedge",
+"MTX_Smug_Rooftop_Wedge_Top_Half",
+"MTX_Smug_Stairs",
+"MTX_Smug_Stairs_Corner",
+"MTX_Smug_Stairs_Corner_Half",
+"MTX_Smug_Stairs_Corner_Inverted",
+"MTX_Smug_Stairs_Corner_Inverted_Half",
+"MTX_Smug_Stairs_Half",
+"MTX_Smug_Wall_01",
+"MTX_Smug_Wall_02",
+"MTX_Smug_Wall_03",
+"MTX_Smug_Wall_Half",
+"MTX_Smug_Wall_Round_Corner_01",
+"MTX_Smug_Wall_Round_Corner_02",
+"MTX_Smug_Wall_Round_Corner_Half",
+"MTX_Smug_Wall_Triangle_Bottom_Left",
+"MTX_Smug_Wall_Triangle_Bottom_Left_Half",
+"MTX_Smug_Wall_Triangle_Bottom_Right",
+"MTX_Smug_Wall_Triangle_Bottom_Right_Half",
+"MTX_Smug_Wall_Triangle_Top_Left",
+"MTX_Smug_Wall_Triangle_Top_Left_Half",
+"MTX_Smug_Wall_Triangle_Top_Right",
+"MTX_Smug_Wall_Triangle_Top_Right_Half",
+"MTX_Smug_Window_01",
+"MTX_Smug_Window_02",
+"MTX_Smug_Window_Round_Corner",
+"MTX_Smug_Roof_Round_Corner_Half_01_B",
+"MTX_Smug_Passageway",
+"MTX_Smug_Roof_Cover_Bottom_Half_L",
+"MTX_Smug_Roof_Cover_Bottom_Half_R",
+"MTX_Smug_Wall_04",
+"MTX_Smug_Railing_Inclined_Right",
+"MTX_Smug_Railing_Inclined_Right_Half",
+"MTX_Smug_Corner_Column",
+"MTX_Smug_Garage_Door_Frame",
+"MTX_Smug_Prudence_Door_Frame"
+],
+"named": true
+},
+"MTX_Smug_BuildingSet_Placeables_Patent": {
+"name": "Smuggler Placeables Set",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Smug_Books_01_Placeable",
+"MTX_Smug_Books_02_Placeable",
+"MTX_Smug_Books_03_Placeable",
+"MTX_Smug_Chair_Placeable",
+"MTX_Smug_Couch_Corner_Placeable",
+"MTX_Smug_Couch_Placeable",
+"MTX_Smug_DiningTable_Placeable",
+"MTX_Smug_LightWall_Placeable",
+"MTX_Smug_TableLamp_Placeable",
+"MTX_Smug_Trophy_Placeable",
+"MTX_Smug_Shelves_02_Placeable",
+"MTX_Smug_Couch_Corner_In_Placeable",
+"MTX_Smug_Bed_Placeable",
+"MTX_Smug_Carpet_Placeable",
+"MTX_Smug_Banner_Placeable",
+"MTX_Smug_Chandelier_Placeable",
+"MTX_Smug_Light_Ceiling_Placeable"
+],
+"named": true
+},
+"MTX_B1C3_RoofToppers_01_Placeables_Patent": {
+"name": "Helm Spires",
+"desc": "A set of ornamented architectural embellishments to enhance a roof",
+"pieces": [
+"MTX_Atre_Sculpture_01_Placeable",
+"MTX_Choam_Sculpture_01_Placeable",
+"MTX_Hark_Sculpture_01_Placeable"
+],
+"named": true
+},
+"MTX_B1C3_RoofToppers_02_Placeables_Patent": {
+"name": "Victory Spires",
+"desc": "A set of towering architectural embellishments to enhance a roof",
+"pieces": [
+"MTX_Atre_Sculpture_02_Placeable",
+"MTX_Choam_Sculpture_02_Placeable",
+"MTX_Hark_Sculpture_02_Placeable"
+],
+"named": true
+},
+"AugmentStation_Patent": {
+"name": "Augmentation Station",
+"desc": "A placeable that can be used to apply augmentations to items.",
+"pieces": [
+"ModdingStation_Placeable"
+],
+"named": true
+},
+"MTX_Neut_ChristmasTree_Hologram_Patent": {
+"name": "Festive Tree Hologram",
+"desc": "A high-luxury hologram of a tree",
+"pieces": [
+"MTX_Neut_ChristmasTree_Hologram_Placeable"
+],
+"named": true
+},
+"Choam_Buildset_ComplementaryPieces": {
+"name": "Observer Building Set",
+"desc": "A set of building pieces to create bases in the Observer style.",
+"pieces": [
+"MTX_Choam_TwitchReward_Foundation",
+"MTX_Choam_TwitchReward_Stairs_Corner",
+"MTX_Choam_TwitchReward_Stairs_Corner_Inverted",
+"MTX_Choam_TwitchReward_Ladder",
+"MTX_Choam_TwitchReward_Window_Round",
+"MTX_Choam_TwitchReward_Column_02",
+"MTX_Choam_TwitchReward_Pillar_Bottom",
+"MTX_Choam_TwitchReward_Pillar_Middle",
+"MTX_Choam_TwitchReward_Pillar_Top",
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Left",
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Right",
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Left",
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Right",
+"MTX_Choam_TwitchReward_Triangle_Bottom_Left",
+"MTX_Choam_TwitchReward_Triangle_Bottom_Right",
+"MTX_Choam_TwitchReward_Triangle_Top_Left",
+"MTX_Choam_TwitchReward_Triangle_Top_Right",
+"MTX_Choam_TwitchReward_Wall_Half",
+"MTX_Choam_TwitchReward_Hatch",
+"MTX_Choam_TwitchReward_Roof_Half",
+"MTX_Choam_TwitchReward_Roof_Corner_Round",
+"MTX_Choam_TwitchReward_Roof_Corner_Inverted",
+"MTX_Choam_TwitchReward_Roof_Corner",
+"MTX_Choam_TwitchReward_Rooftop",
+"MTX_Choam_TwitchReward_Railing_01",
+"MTX_Choam_TwitchReward_Railing_Gate",
+"MTX_Choam_TwitchReward_Railing_Inclined",
+"MTX_Choam_TwitchReward_Railing_Corner_Round",
+"MTX_Choam_TwitchReward_Door",
+"MTX_Choam_TwitchReward_Floor",
+"MTX_Choam_TwitchReward_Wall_01",
+"MTX_Choam_TwitchReward_Wall_02",
+"MTX_Choam_TwitchReward_Passageway",
+"MTX_Choam_TwitchReward_Stairs",
+"MTX_Choam_TwitchReward_Window_01",
+"MTX_Choam_TwitchReward_Column",
+"MTX_Choam_TwitchReward_Wall_Round",
+"MTX_Choam_TwitchReward_Foundation_Round_Corner",
+"MTX_Choam_TwitchReward_Floor_Round"
+],
+"named": true
+},
+"Developer_Storage_Container_Patent": {
+"name": "Developer Storage Container",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"Developer_StorageContainer_Placeable"
+],
+"named": true
+},
+"MTX_Atre_TeaHouse_Relief_Placeable_Patent": {
+"name": "Serene Tea House Wall Relief",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Atre_TeaHouse_WallRelief_Placeable"
+],
+"named": true
+},
+"IceRefinery_Patent": {
+"name": "BUILDING_SET_POLARFABRICATOR_PATENT_NAME",
+"desc": "BUILDING_SET_POLARFABRICATOR_PATENT_SHORTDESC",
+"pieces": [
+"IceRefinery_Placeable"
+],
+"named": true
+},
+"PolarFabricator_Patent": {
+"name": "PH_Polar Fabricator",
+"desc": "PH_Polar Fabricator Patent short desc",
+"pieces": [
+"PolarFabricator_Placeable"
+],
+"named": true
+},
+"WaterTower_Patent": {
+"name": "PH_Water Tower",
+"desc": "PH_A patent for a water tower placeable",
+"pieces": [
+"WaterTower_Placeable"
+],
+"named": true
+},
+"MTX_Neut_GunnerSet_Patent_02": {
+"name": "Sentinel Building Set 2",
+"desc": "XX_SHORTDESC",
+"pieces": [
+"MTX_Neut_Gunner_Column",
+"MTX_Neut_Gunner_Floor",
+"MTX_Neut_Gunner_Foundation",
+"MTX_Neut_Gunner_Railing_01",
+"MTX_Neut_Gunner_Railing_02",
+"MTX_Neut_Gunner_Railing_Round_Corner"
+],
+"named": true
+},
+"MTX_WaterShippers_BuildingSet_Patent": {
+"name": "Water Shipper Building Set",
+"desc": "A set of building pieces to create bases in the Water Shipper style, to use with the Construction Tool.",
+"pieces": [
+"Watershippers_Arch_01",
+"Watershippers_Column",
+"Watershippers_Door_Frame",
+"Watershippers_Floor_01",
+"Watershippers_Floor_02",
+"Watershippers_Floor_Round_Corner_01",
+"Watershippers_Floor_Round_Corner_02",
+"Watershippers_Floor_Round_Corner_In",
+"Watershippers_Foundation",
+"Watershippers_Foundation_Round_Corner",
+"Watershippers_Garage_Door_Big_Frame",
+"Watershippers_Passageway",
+"Watershippers_Pillar_Bottom",
+"Watershippers_Pillar_Middle",
+"Watershippers_Pillar_Top",
+"Watershippers_Prudence_Door_Frame",
+"Watershippers_Railing",
+"Watershippers_Railing_Gate",
+"Watershippers_Railing_Inclined_L",
+"Watershippers_Railing_Inclined_R",
+"Watershippers_Railing_Round_Corner",
+"Watershippers_Roof_01",
+"Watershippers_Roof_02",
+"Watershippers_Roof_Corner",
+"Watershippers_Roof_Corner_In",
+"Watershippers_Roof_Round_Corner",
+"Watershippers_Rooftop_01",
+"Watershippers_Rooftop_02",
+"Watershippers_Stairs",
+"Watershippers_Stairs_Corner",
+"Watershippers_Stairs_Corner_In",
+"Watershippers_Wall_01",
+"Watershippers_Wall_02",
+"Watershippers_Wall_03",
+"Watershippers_Wall_Half",
+"Watershippers_Wall_Triangle_Bottom_Half_L",
+"Watershippers_Wall_Triangle_Bottom_Half_R",
+"Watershippers_Wall_Triangle_Bottom_L",
+"Watershippers_Wall_Triangle_Bottom_R",
+"Watershippers_Wall_Triangle_Top_Half_L",
+"Watershippers_Wall_Triangle_Top_Half_R",
+"Watershippers_Wall_Triangle_Top_L",
+"Watershippers_Wall_Triangle_Top_R",
+"Watershippers_Window_01",
+"Watershippers_Window_02",
+"Watershippers_Window_Round_Corner",
+"Watershippers_Window_Wide",
+"Watershippers_Corner_Column",
+"Watershippers_Ramp",
+"Watershippers_Ramp_Corner",
+"Watershippers_Ramp_Corner_Inwards",
+"Watershippers_Door_Frame_Wide"
+],
+"named": true
+},
+"MTX_Watershippers_Placeables_Patent": {
+"name": "Water Shipper Placeable Set",
+"desc": "PH_XXSHORTDESC",
+"pieces": [],
+"named": true
+},
+"MTX_Atre_TeaSet_Patent": {
+"name": "XX_REMOVE",
+"desc": "",
+"pieces": [
+"MTX_Atre_TeaSet_LowerBar_Placeable",
+"MTX_Atre_TeaSet_UpperBar_Placeable"
+],
+"named": true
+},
+"MTX_Atre_TeaSet_Patent2": {
+"name": "Contemplation Sofa and Chair Set",
+"desc": "A sofa and chair set in the style of the Contemplation Tea House.",
+"pieces": [
+"MTX_Atre_TeaSet_Chair_Placeable",
+"MTX_Atre_TeaSet_Sofa_Placeable"
+],
+"named": true
+},
+"MTX_Atre_TeaSet_Patent3": {
+"name": "Contemplation Mural and Baliset",
+"desc": "A mural and baliset in the style of the Contemplation Tea House.",
+"pieces": [
+"MTX_Atre_TeaSet_Baliset_Placeable",
+"MTX_Atre_TeaSet_WallRelief_Placeable"
+],
+"named": true
+},
+"MTX_Atre_TeaSet_Patent4": {
+"name": "Contemplation Table and Tea Service",
+"desc": "A table and tea service in the style of the Contemplation Tea House.",
+"pieces": [
+"MTX_Atre_TeaSet_Table_Placeable",
+"MTX_Atre_TeaSet_TeaService_Placeable"
+],
+"named": true
+},
+"MTX_MovieTeaser_Patent": {
+"name": "NA_MovieTeaser_Patent_Name",
+"desc": "NA_MovieTeaser_Patent_shortdesc",
+"pieces": [
+"MTX_MovieTeaser_FirePlace_Placeable",
+"MTX_Env_Prop_MovieTeaser_Throne_Placeable"
+],
+"named": true
+},
+"MTX_Sardaukar_BuildingSet_Patent": {
+"name": "NA_Sardaukar Building Set Patent Name",
+"desc": "NA_Sardaukar Building Set Patent Short Desc",
+"pieces": [
+"Sardaukar_Column",
+"Sardaukar_Door_Frame",
+"Sardaukar_Door_Frame_Tall",
+"Sardaukar_Floor",
+"Sardaukar_Floor_Round_Corner",
+"Sardaukar_Floor_Round_Inverted",
+"Sardaukar_Foundation",
+"Sardaukar_Foundation_Round_Corner",
+"Sardaukar_Foundation_Wedge",
+"Sardaukar_Passageway",
+"Sardaukar_Pillar_Bottom",
+"Sardaukar_Pillar_Middle",
+"Sardaukar_Pillar_Top",
+"Sardaukar_Railing",
+"Sardaukar_Railing_Gate",
+"Sardaukar_Railing_Inclined",
+"Sardaukar_Railing_Round_Corner",
+"Sardaukar_Ramp",
+"Sardaukar_Ramp_Corner",
+"Sardaukar_Ramp_Corner_Inward",
+"Sardaukar_Roof_01",
+"Sardaukar_Roof_02",
+"Sardaukar_Roof_Corner",
+"Sardaukar_Roof_Round_Corner",
+"Sardaukar_Roof_Corner_Inward",
+"Sardaukar_Roof_Wedge_Bottom",
+"Sardaukar_Roof_Wedge_Top",
+"Sardaukar_Rooftop_01",
+"Sardaukar_Rooftop_02",
+"Sardaukar_Stairs",
+"Sardaukar_Stairs_Corner",
+"Sardaukar_Stairs_Corner_Inward",
+"Sardaukar_Wall_01",
+"Sardaukar_Wall_02",
+"Sardaukar_Wall_03",
+"Sardaukar_Wall_Round_Corner",
+"Sardaukar_Wall_Inclined_Corner_Tall",
+"Sardaukar_Wall_Inclined_Tall_01",
+"Sardaukar_Wall_Triangle_Bottom_Left",
+"Sardaukar_Wall_Triangle_Bottom_Right",
+"Sardaukar_Wall_Triangle_Top_Left",
+"Sardaukar_Wall_Triangle_Top_Right",
+"Sardaukar_Wall_Triangle_Bottom_Tall_Left",
+"Sardaukar_Wall_Triangle_Bottom_Tall_Right",
+"Sardaukar_Window",
+"Sardaukar_Window_Round_Corner",
+"Sardaukar_Rooftop_Wedge",
+"Sardaukar_Rooftop_Round_Corner",
+"Sardaukar_Rooftop_Round_Inverted",
+"Sardaukar_Garage_Door_Frame",
+"Sardaukar_Wall_Inclined_Tall_02",
+"Sardaukar_Window_Inclined_Tall",
+"Sardaukar_Roof_03",
+"Sardaukar_Wall_Triangle_Top_Tall_Left",
+"Sardaukar_Wall_Triangle_Top_Tall_Right",
+"Sardaukar_Door_Frame_Wide",
+"Sardaukar_PrudenceDoor_Frame",
+"Sardaukar_Railing_Inclined_Half",
+"Sardaukar_Ramp_Half",
+"Sardaukar_Ramp_Corner_Half",
+"Sardaukar_Ramp_Corner_Half_Inward",
+"Sardaukar_Stairs_Half",
+"Sardaukar_Stairs_Corner_Half",
+"Sardaukar_Stairs_Corner_Half_Inward",
+"Sardaukar_Wall_Half",
+"Sardaukar_Wall_Round_Corner_Half",
+"Sardaukar_Wall_Triangle_Bottom_Half_Left",
+"Sardaukar_Wall_Triangle_Bottom_Half_Right",
+"Sardaukar_Wall_Triangle_Top_Half_Left",
+"Sardaukar_Wall_Triangle_Top_Half_Right",
+"Sardaukar_Floor_Wedge",
+"Sardaukar_Floor_02",
+"Sardaukar_Floor_Round_Corner_02",
+"Sardaukar_Column_corner",
+"Sardaukar_Door_Frame_Tall_L",
+"Sardaukar_Roof_02_L",
+"Sardaukar_Roof_03_L",
+"Sardaukar_Wall_Inclined_Tall_02_L",
+"Sardaukar_Window_L",
+"Sardaukar_Window_Inclined_Tall_L",
+"Sardaukar_Wall_02_L",
+"Sardaukar_Wall_Inclined_Tall_01_L",
+"Sardaukar_Wall_Inclined_Corner_Tall_L",
+"Sardaukar_Door_Frame_L",
+"Sardaukar_PrudenceDoor_Frame_L"
+],
+"named": true
+},
+"MTX_ArakeenAlleyway_Carpet_Patent": {
+"name": "Rug of the Desert Flyers",
+"desc": "NA_MTX_ArakeenAlleyway_Carpet_Patent Short desc",
+"pieces": [
+"MTX_ArakeenAlleyway_Carpet_Placeable"
+],
+"named": true
+},
+"MTX_DestroyedZanovar_Hologram_Patent": {
+"name": "Zanovar Arboretum Tree Solido",
+"desc": "NA_MTX_DestroyedZanovar_Hologram_Patent Short desc",
+"pieces": [
+"MTX_DestroyedZanovar_Hologram_Placeable"
+],
+"named": true
+},
+"MTX_DualBladesDeco_Patent": {
+"name": "Twin Blades of the Arena",
+"desc": "NA_MTX_DualBladesDeco_Patent Short desc",
+"pieces": [
+"MTX_DualBladesDeco_Placeable"
+],
+"named": true
+},
+"MTX_IxianTotem_Patent": {
+"name": "Ixian Icon",
+"desc": "NA_MTX_IxianTotem_Patent Short desc",
+"pieces": [
+"MTX_IxianTotem_Placeable"
+],
+"named": true
+},
+"MTX_MaasKharet_Glowglobe_Patent": {
+"name": "Suspensor Light of the Tyrant Worm",
+"desc": "NA_MTX_MaasKharet_Glowglobe_Patent Short desc",
+"pieces": [
+"MTX_MaasKharet_Glowglobe_Placeable"
+],
+"named": true
+},
+"MTX_MinotaurMaskWall_Patent": {
+"name": "Mounted Minotaur Mask",
+"desc": "NA_MTX_MinotaurMaskWall_Patent Short desc",
+"pieces": [
+"MTX_MinotaurMaskWall_Placeable"
+],
+"named": true
+},
+"MTX_PhaedraPortrait_Patent": {
+"name": "Recovered Portrait from Old Carthag",
+"desc": "NA_MTX_PhaedraPortrait_Patent Short desc",
+"pieces": [
+"MTX_PhaedraPortrait_Placeable"
+],
+"named": true
+},
+"MTX_RevMotherFloatingChair_Patent": {
+"name": "Ascendant Throne of the Reverend Mother",
+"desc": "NA_MTX_RevMotherFloatingChair_Patent Short desc",
+"pieces": [
+"MTX_RevMotherFloatingChair_Placeable"
+],
+"named": true
+},
+"MTX_SardaukarFightingDummy_Patent": {
+"name": "Sardaukar Combat Training Dummy",
+"desc": "NA_MTX_SardaukarFightingDummy_Patent Short desc",
+"pieces": [
+"MTX_SardaukarFightingDummy_Placeable"
+],
+"named": true
+},
+"MTX_TheGluttonRedLight_Glowglobe_Patent": {
+"name": "Ruddy Glowglobe of Slaughter",
+"desc": "NA_MTX_TheGluttonRedLight_Glowglobe_Patent Short desc",
+"pieces": [
+"MTX_TheGluttonRedLight_Glowglobe_Placeable"
+],
+"named": true
+},
+"MTX_SardaukarDecorationSet_Patent": {
+"name": "Sardaukar Decoration Set",
+"desc": "NA_Sardaukar decoration patent short desc",
+"pieces": [
+"B1C5_MTX_Sardaukar_Banner_Placeable",
+"B1C5_MTX_Sardaukar_Bed_Placeable",
+"B1C5_MTX_Sardaukar_Books_01_Placeable",
+"B1C5_MTX_Sardaukar_Books_02_Placeable",
+"B1C5_MTX_Sardaukar_Books_03_Placeable",
+"B1C5_MTX_Sardaukar_Carpet_Placeable",
+"B1C5_MTX_Sardaukar_Chair_Placeable",
+"B1C5_MTX_Sardaukar_Chandelier_Placeable",
+"B1C5_MTX_Sardaukar_Couch_Placeable",
+"B1C5_MTX_Sardaukar_Couch_Corner_Placeable",
+"B1C5_MTX_Sardaukar_Couch_Corner_In_Placeable",
+"B1C5_MTX_Sardaukar_DiningTable_Placeable",
+"B1C5_MTX_Sardaukar_Glowglobe_Placeable",
+"B1C5_MTX_Sardaukar_LightTable_Placeable",
+"B1C5_MTX_Sardaukar_Shelves_01_Placeable",
+"B1C5_MTX_Sardaukar_Trophy_Placeable",
+"B1C5_MTX_Sardaukar_WallLamp_Placeable"
+],
+"named": true
+},
+"MTX_DukeLetoProjection_Patent": {
+"name": "Duke Leto Atreides Solido",
+"desc": "NA_Duke Leto Projection Patent short description",
+"pieces": [
+"MTX_B1C5_DukeLeto_Projector_Placeable"
+],
+"named": true
+},
+"MTX_BeastRabbanProjection_Patent": {
+"name": "Glossu Rabban Solido",
+"desc": "NA_Beast Rabban Projection Patent short description",
+"pieces": [
+"MTX_B1C5_BeastRabban_Projector_Placeable"
+],
+"named": true
+},
+"MTX_WaterFatManorProjection_Patent": {
+"name": "Poisoned Citadel Solido",
+"desc": "NA_Water Fat Manor Projection Patent short desc",
+"pieces": [
+"MTX_B1C5_WaterFatManor_Projector_Placeable"
+],
+"named": true
+},
+"MTX_WormMouthWall_Patent": {
+"name": "Maw of the Worm Wall Relief",
+"desc": "NA_Worm Mouth Wall Patent short description",
+"pieces": [
+"MTX_B1C5_WormMouthMural_Placeable"
+],
+"named": true
+},
+"MTX_ReverendMotherRoom_Banner_Patent": {
+"name": "NA_ReverendMotherRoom_Banner_Patent",
+"desc": "NA_ReverendMotherRoom_Banner_Patent short desc",
+"pieces": [
+"B1C5_MTX_ReverendMotherRoom_Banner_Placeable"
+],
+"named": true
+},
+"MTX_ReverendMotherRoom_Carpet_Patent": {
+"name": "NA_ReverendMotherRoom_Carpet_Patent",
+"desc": "NA_ReverendMotherRoom_Carpet_Patent short desc",
+"pieces": [
+"B1C5_MTX_ReverendMotherRoom_Carpet_Placeable"
+],
+"named": true
+},
+"MTX_ReverendMotherRoom_Chair_01_Patent": {
+"name": "NA_ReverendMotherRoom_Chair_01_Patent",
+"desc": "NA_ReverendMotherRoom_Chair_01_Patent short desc",
+"pieces": [
+"B1C5_MTX_ReverendMotherRoom_Chair_01_Placeable"
+],
+"named": true
+},
+"MTX_ReverendMotherRoom_Chair_02_Patent": {
+"name": "NA_ReverendMotherRoom_Chair_02_Patent",
+"desc": "NA_ReverendMotherRoom_Chair_02_Patent short desc",
+"pieces": [
+"B1C5_MTX_ReverendMotherRoom_Chair_02_Placeable"
+],
+"named": true
+},
+"MTX_ReverendMotherRoom_Table_Patent": {
+"name": "NA_ReverendMotherRoom_Table_Patent",
+"desc": "NA_ReverendMotherRoom_Table_Patent short desc",
+"pieces": [
+"B1C5_MTX_ReverendMotherRoom_Table_Placeable"
+],
+"named": true
+},
+"MTX_ReverendMotherRoom_TableRound_Patent": {
+"name": "NA_ReverendMotherRoom_TableRound_Patent",
+"desc": "NA_ReverendMotherRoom_TableRound_Patent short desc",
+"pieces": [
+"B1C5_MTX_ReverendMotherRoom_TableRound_Placeable"
+],
+"named": true
+},
+"MTX_ChoamExtention_Column_Patent": {
+"name": "NA_ChoamExtention_Column_Patent",
+"desc": "NA_ChoamExtention_Column_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Column",
+"MTX_B1C5_Choam_Level2Extention_Column_Corner"
+],
+"named": true
+},
+"MTX_ChoamExtention_Floor_01_Patent": {
+"name": "NA_ChoamExtention_Floor_01_Patent",
+"desc": "NA_ChoamExtention_Floor_01_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Floor_01"
+],
+"named": true
+},
+"MTX_ChoamExtention_Passageway_01_Patent": {
+"name": "NA_ChoamExtention_Passageway_01_Patent",
+"desc": "NA_ChoamExtention_Passageway_01_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Passageway_01"
+],
+"named": true
+},
+"MTX_ChoamExtention_Roof_01_Patent": {
+"name": "NA_ChoamExtention_Roof_01_Patent",
+"desc": "NA_ChoamExtention_Roof_01_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Rooftop_01"
+],
+"named": true
+},
+"MTX_ChoamExtention_Wall_01_Patent": {
+"name": "NA_ChoamExtention_Wall_01_Patent",
+"desc": "NA_ChoamExtention_Wall_01_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Wall_01"
+],
+"named": true
+},
+"MTX_ChoamExtention_Wall_02_Patent": {
+"name": "NA_ChoamExtention_Wall_02_Patent",
+"desc": "NA_ChoamExtention_Wall_02_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Wall_02"
+],
+"named": true
+},
+"MTX_ChoamExtention_Wall_03_Patent": {
+"name": "NA_ChoamExtention_Wall_03_Patent",
+"desc": "NA_ChoamExtention_Wall_03_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Wall_03"
+],
+"named": true
+},
+"MTX_ChoamExtention_WallRoundCorner_Patent": {
+"name": "NA_ChoamExtention_WallRoundCorner_Patent",
+"desc": "NA_ChoamExtention_WallRoundCorner_Patent short desc",
+"pieces": [
+"MTX_B1C5_Choam_Level2Extention_Wall_Round_Corner"
+],
+"named": true
+},
+"MTX_HalloweenEvent_RottingCorpse_Patent": {
+"name": "Cadaverous Decorations",
+"desc": "Displays of cadaverous anatomy are used by both the biologically curious and the profane. These are not mutually exclusive.",
+"pieces": [
+"MTX_Neut_MeltedCorpse_01_Placeable",
+"MTX_Neut_MeltedCorpse_02_Placeable",
+"MTX_Neut_MeltedCorpse_03_Placeable"
+],
+"named": true
+},
+"MTX_HalloweenEvent_Skeleton_Patent": {
+"name": "Osseous Decorations",
+"desc": "Such displays remind one that there is a skeleton hiding inside of us all.",
+"pieces": [
+"MTX_Neut_Skeleton_01_Placeable",
+"MTX_Neut_Skeleton_02_Placeable",
+"MTX_Neut_Skeleton_03_Placeable"
+],
+"named": true
+},
+"MTX_HalloweenEvent_Fleshtube_Patent": {
+"name": "Flesh Sculpting Displays",
+"desc": "The Tleilaxu and others skilled in the art of flesh crafting, use such devices to create experiments and homunculi that only a diseased imagination could fancy.",
+"pieces": [
+"MTX_Hark_FleshTube_01_Placeable",
+"MTX_Hark_FleshTube_02_Placeable",
+"MTX_Hark_FleshTube_03_Placeable"
+],
+"named": true
+},
+"MTX_HalloweenEvent_VacumBodies_Patent": {
+"name": "Vacuum-Sealed Body Display",
+"desc": "Whole galaxies of horror can be contained in the vague suggestions of an imprint.",
+"pieces": [
+"MTX_Neut_VacuumBodies_Placeable"
+],
+"named": true
+},
+"MTX_HalloweenEvent_RadiationCrate_Patent": {
+"name": "Sealed Radiation Containment Chest",
+"desc": "This unit was engineered to contain radioactive material within but is now decommissioned and sealed. It cannot be opened but has grim aesthetic value.",
+"pieces": [
+"MTX_Atre_RadiationCrate_Placeable"
+],
+"named": true
+},
+"MTX_HalloweenEvent_LightPole_Patent": {
+"name": "Jury-Rigged Light Stand",
+"desc": "Sometimes light is absolutely necessary, regardless of the parts on hand.",
+"pieces": [
+"MTX_Neut_LightPole_Placeable"
+],
+"named": true
+},
+"MTX_HalloweenEvent_Crucifixion_Patent": {
+"name": "Decussate Cross",
+"desc": "The silhouettes of these devices of crucifixion make a statement. Sometimes, a battle can be avoided with an artful display of cruelty.",
+"pieces": [
+"MTX_Neut_Crucifixion_01_Placeable"
+],
+"named": true
+}
+},
+"pieces": {
+"AdvancedWeaponsFabricator_Placeable": "Advanced Weapons Fabricator",
+"AdvancedWearablesFabricator_Placeable": "Advanced Garment Fabricator",
+"Advanced_SurvivalFabricator_Placeable": "Advanced Survival Fabricator",
+"Advanced_VehiclesFabricator_Placeable": "Advanced Vehicles Fabricator",
+"Atre_Banner_Placeable": "Atreides Banner",
+"Atre_Bed_Placeable": "Atreides Bed",
+"Atre_Carpet_01_Placeable": "Atreides Carpet",
+"Atre_Carpet_02_Placeable": "Atreides Carpet 2",
+"Atre_Chair_1_Placeable": "Atreides Armless Chair",
+"Atre_Chair_2_Placeable": "Atreides Armed Chair",
+"Atre_Chandelier_Placeable": "Atreides Chandelier",
+"Atre_CouchCorner_1_Placeable": "Atreides Bench Outside Corner",
+"Atre_CouchCorner_In_1_Placeable": "Atreides Bench Inside Corner",
+"Atre_Couch_1_Placeable": "Atreides Bench",
+"Atre_DLC_Glowglobe_Placeable": "Atreides Glowglobe",
+"Atre_Deco_Books_01_Placeable": "Atreides Leaning Books",
+"Atre_Deco_Books_02_Placeable": "Atreides Book Stack",
+"Atre_Deco_Books_03_Placeable": "Atreides Book Row",
+"Atre_Deco_Glass_Bowl_Placeable": "Atreides Rice Bowl",
+"Atre_Deco_Glass_Carafe_Placeable": "Atreides Carafe",
+"Atre_Deco_Glass_Cup_Placeable": "Atreides Drinking Glass",
+"Atre_Deco_Glass_SpiceJar_Placeable": "Atreides Spice Jar",
+"Atre_Deco_Hologram_Placeable": "Atreides Caladan Solido",
+"Atre_Deco_Plate_01_Placeable": "Atreides Serving Plate",
+"Atre_Deco_Plate_02_Placeable": "Atreides Dining Plate",
+"Atre_Deco_Trophy_01_Placeable": "Atreides Icon",
+"Atre_Deco_Vase_01_A_Placeable": "Atreides Tall Light Vase",
+"Atre_Deco_Vase_01_B_Placeable": "Atreides Medium Light Vase",
+"Atre_Deco_Vase_01_C_Placeable": "Atreides Short Light Vase",
+"Atre_Deco_Vase_02_A_Placeable": "Atreides Tall Dark Vase",
+"Atre_Deco_Vase_02_B_Placeable": "Atreides Short Dark Vase",
+"Atre_DiningTable_Placeable": "Atreides Dining Table",
+"Atre_Emperor_Painting_Placeable": "Atre Emperor Painting",
+"Atre_Glowglobe_Placeable": "Atreides Suspensor Lamp",
+"Atre_LightCeiling_Placeable": "Atreides Ceiling Light",
+"Atre_LightFloor_Placeable": "Atreides Floor Light",
+"Atre_LightWall_Placeable": "Atreides Wall Light",
+"Atre_OfficeTable_Placeable": "Atreides Desk",
+"Atre_PlateDeco_Placeable": "Atreides Wall-Mounted Plate",
+"Atre_Shelves_01_Placeable": "Atreides Bookshelf",
+"Atre_SideTable_Placeable": "Atreides Side Table",
+"Atre_SmallStorageDrawer_Placeable": "Atreides Commode",
+"Atre_StandingLight_01_Placeable": "Atreides Tall Standing Light",
+"Atre_StandingLight_02_Placeable": "Atreides Short Standing Light",
+"Atre_WallArt_01_Placeable": "Atreides Fish Artwork",
+"Atre_WallPartition_Placeable": "Atreides Wall Partition",
+"Atre_Wardrobe_Placeable": "Atreides Wardrobe",
+"Atreides_Garage_Door_Frame": "Atreides Garage Door Frame",
+"Atreides_Outpost_Column": "Center Column",
+"Atreides_Outpost_Column_Corner": "Corner Column",
+"Atreides_Outpost_Door_Frame": "Door",
+"Atreides_Outpost_Door_Frame_Tall": "Tall Door",
+"Atreides_Outpost_Door_Frame_Wide": "Wide Passageway",
+"Atreides_Outpost_Door_Frame_Wide_02": "Wide Door",
+"Atreides_Outpost_Floor": "Floor",
+"Atreides_Outpost_Floor_Round_Corner": "Rounded Floor",
+"Atreides_Outpost_Floor_Round_Corner_Inverted": "Rounded Inward Floor",
+"Atreides_Outpost_Floor_Triangle_Wide_Left": "Wide Floor Triangle Left",
+"Atreides_Outpost_Floor_Triangle_Wide_Right": "Wide Floor Triangle Right",
+"Atreides_Outpost_Floor_Wedge": "Triangle Floor",
+"Atreides_Outpost_Foundation": "Foundation",
+"Atreides_Outpost_Foundation_Round_Corner": "Rounded Foundation",
+"Atreides_Outpost_Foundation_Wedge": "Triangle Foundation",
+"Atreides_Outpost_Gate_Big": "Large Gate",
+"Atreides_Outpost_Hatch": "Hatch",
+"Atreides_Outpost_Ladder": "Ladder",
+"Atreides_Outpost_Passageway": "Passageway",
+"Atreides_Outpost_Pillar_Bottom": "Pillar Bottom",
+"Atreides_Outpost_Pillar_Middle": "Pillar Middle",
+"Atreides_Outpost_Pillar_Top": "Pillar Top",
+"Atreides_Outpost_PrudenceDoor_Frame": "Prudence Door",
+"Atreides_Outpost_Railing": "Railing",
+"Atreides_Outpost_Railing_Gate": "Railing Gate",
+"Atreides_Outpost_Railing_Inclined": "Incline Railing",
+"Atreides_Outpost_Railing_Inclined_Half": "Half Incline Railing",
+"Atreides_Outpost_Railing_Round_Corner": "Rounded Railing",
+"Atreides_Outpost_Ramp": "Ramp",
+"Atreides_Outpost_Ramp_Corner": "Ramp Corner",
+"Atreides_Outpost_Ramp_Corner_Half": "Half Ramp Corner",
+"Atreides_Outpost_Ramp_Corner_Half_Inward": "Half Ramp Inwards Corner",
+"Atreides_Outpost_Ramp_Corner_Inward": "Ramp Inwards Corner",
+"Atreides_Outpost_Ramp_Edge_Wide_Left": "Wide Ramp Edge Left",
+"Atreides_Outpost_Ramp_Edge_Wide_Right": "Wide Ramp Edge Right",
+"Atreides_Outpost_Ramp_Half": "Half Ramp",
+"Atreides_Outpost_Ramp_Wide": "Wide Ramp",
+"Atreides_Outpost_Roof_Corner_Half": "Angled Roof Corner",
+"Atreides_Outpost_Roof_Corner_Half_Inward": "Angled Roof Inwards Corner",
+"Atreides_Outpost_Roof_Cover_Bottom_Half_Left": "Roof Cover Bottom Left",
+"Atreides_Outpost_Roof_Cover_Bottom_Half_Right": "Roof Cover Bottom Right",
+"Atreides_Outpost_Roof_Cover_Top_Half_Left": "Roof Cover Top Left",
+"Atreides_Outpost_Roof_Cover_Top_Half_Right": "Roof Cover Top Right",
+"Atreides_Outpost_Roof_Half": "Angled Roof",
+"Atreides_Outpost_Roof_Round_Corner_Half": "Rounded Angled Roof Corner",
+"Atreides_Outpost_Roof_Wedge_Bottom_Half": "Triangle Roof Bottom",
+"Atreides_Outpost_Roof_Wedge_Top_Half": "Triangle Roof Top",
+"Atreides_Outpost_Rooftop_01": "Rooftop 2",
+"Atreides_Outpost_Rooftop_02": "Rooftop",
+"Atreides_Outpost_Rooftop_Round_Corner": "Rounded Rooftop",
+"Atreides_Outpost_Rooftop_Round_Corner_Inverted": "Rounded Inward Rooftop",
+"Atreides_Outpost_Rooftop_Wedge": "Triangle Rooftop",
+"Atreides_Outpost_Stair_Wide": "Wide Stairs",
+"Atreides_Outpost_Stairs": "Stairs",
+"Atreides_Outpost_Stairs_Corner": "Stairs Corner",
+"Atreides_Outpost_Stairs_Corner_Half": "Half Stairs Corner",
+"Atreides_Outpost_Stairs_Corner_Half_Inward": "Half Stairs Inwards Corner",
+"Atreides_Outpost_Stairs_Corner_Inward": "Stairs Inwards Corner",
+"Atreides_Outpost_Stairs_Half": "Half Stairs",
+"Atreides_Outpost_Wall_01": "Wall",
+"Atreides_Outpost_Wall_02": "Wall 2",
+"Atreides_Outpost_Wall_03": "Wall 3",
+"Atreides_Outpost_Wall_04": "Wall 4",
+"Atreides_Outpost_Wall_Half": "Half Wall",
+"Atreides_Outpost_Wall_Inclined_Wide_Left": "Wide Wall Incline Left",
+"Atreides_Outpost_Wall_Inclined_Wide_Right": "Wide Wall Incline Right",
+"Atreides_Outpost_Wall_Round_Corner_01": "Rounded Wall",
+"Atreides_Outpost_Wall_Round_Corner_02": "Rounded Wall 2",
+"Atreides_Outpost_Wall_Round_Corner_03": "Rounded Window",
+"Atreides_Outpost_Wall_Round_Corner_Half": "Half Rounded Wall",
+"Atreides_Outpost_Wall_Triangle_Bottom_Half_Left": "Half Triangle Wall Bottom Left",
+"Atreides_Outpost_Wall_Triangle_Bottom_Half_Right": "Half Triangle Wall Bottom Right",
+"Atreides_Outpost_Wall_Triangle_Bottom_Left": "Triangle Wall Bottom Left",
+"Atreides_Outpost_Wall_Triangle_Bottom_Right": "Triangle Wall Bottom Right",
+"Atreides_Outpost_Wall_Triangle_Top_Half_Left": "Half Triangle Wall Top Left",
+"Atreides_Outpost_Wall_Triangle_Top_Half_Right": "Half Triangle Wall Top Right",
+"Atreides_Outpost_Wall_Triangle_Top_Left": "Triangle Wall Top Left",
+"Atreides_Outpost_Wall_Triangle_Top_Right": "Triangle Wall Top Right",
+"Atreides_Outpost_Wall_Triangle_Top_Wide_Left": "Wide Wall Triangle Top Left",
+"Atreides_Outpost_Wall_Triangle_Top_Wide_Right": "Wide Wall Triangle Top Right",
+"Atreides_Outpost_Window_01": "Window",
+"Atreides_Outpost_Window_02": "Window 2",
+"Atreides_Outpost_Window_03": "Window 3",
+"Atreides_Outpost_Window_04": "Window 4",
+"B1C5_MTX_ReverendMotherRoom_Banner_Placeable": "B1 C5 MTX Reverend Mother Room Banner",
+"B1C5_MTX_ReverendMotherRoom_Carpet_Placeable": "B1 C5 MTX Reverend Mother Room Carpet",
+"B1C5_MTX_ReverendMotherRoom_Chair_01_Placeable": "B1 C5 MTX Reverend Mother Room Chair 01",
+"B1C5_MTX_ReverendMotherRoom_Chair_02_Placeable": "B1 C5 MTX Reverend Mother Room Chair 02",
+"B1C5_MTX_ReverendMotherRoom_TableRound_Placeable": "B1 C5 MTX Reverend Mother Room Table Round",
+"B1C5_MTX_ReverendMotherRoom_Table_Placeable": "B1 C5 MTX Reverend Mother Room Table",
+"B1C5_MTX_Sardaukar_Banner_Placeable": "Sardaukar Banner",
+"B1C5_MTX_Sardaukar_Bed_Placeable": "Sardaukar Bed",
+"B1C5_MTX_Sardaukar_Books_01_Placeable": "Sardaukar Books 1",
+"B1C5_MTX_Sardaukar_Books_02_Placeable": "Sardaukar Books 2",
+"B1C5_MTX_Sardaukar_Books_03_Placeable": "Sardaukar Books 3",
+"B1C5_MTX_Sardaukar_Carpet_Placeable": "Sardaukar Carpet",
+"B1C5_MTX_Sardaukar_Chair_Placeable": "Sardaukar Chair",
+"B1C5_MTX_Sardaukar_Chandelier_Placeable": "Sardaukar Chandelier",
+"B1C5_MTX_Sardaukar_Couch_Corner_In_Placeable": "Sardaukar Couch Inside Corner",
+"B1C5_MTX_Sardaukar_Couch_Corner_Placeable": "Sardaukar Couch Outside Corner",
+"B1C5_MTX_Sardaukar_Couch_Placeable": "Sardaukar Couch",
+"B1C5_MTX_Sardaukar_DiningTable_Placeable": "Sardaukar Dining Table",
+"B1C5_MTX_Sardaukar_Glowglobe_Placeable": "Sardaukar Glowglobe",
+"B1C5_MTX_Sardaukar_LightTable_Placeable": "Sardaukar Light Table",
+"B1C5_MTX_Sardaukar_Shelves_01_Placeable": "Sardaukar Shelves",
+"B1C5_MTX_Sardaukar_Trophy_Placeable": "Sardaukar Trophy",
+"B1C5_MTX_Sardaukar_WallLamp_Placeable": "Sardaukar Wall Lamp",
+"Beta_Plaque_Placeable": "Memorial Plaque",
+"Blockout_Arch": "Blockout Arch",
+"Blockout_Column": "Center Column",
+"Blockout_Column_Corner": "Corner Column",
+"Blockout_Door_Frame": "Door Frame",
+"Blockout_Door_Frame_Garage": "Blockout Door Frame Garage",
+"Blockout_Door_Frame_Tall": "Tall Door",
+"Blockout_Door_Frame_Wide": "Wide Door",
+"Blockout_Floor": "Floor",
+"Blockout_Floor_Round_Corner": "Rounded Floor",
+"Blockout_Floor_Round_Corner_Inverted": "Rounded Inward Floor",
+"Blockout_Floor_Triangle_Wide_Left": "Wide Floor Triangle Left",
+"Blockout_Floor_Triangle_Wide_Right": "Wide Floor Triangle Right",
+"Blockout_Floor_Wedge": "Blockout Floor Wedge",
+"Blockout_Foundation": "Foundation",
+"Blockout_Foundation_Round_Corner": "Rounded Foundation",
+"Blockout_Foundation_Wedge": "Blockout Foundation Wedge",
+"Blockout_Gate_Big": "Big Gate",
+"Blockout_Hatch": "Hatch",
+"Blockout_Ladder": "Ladder",
+"Blockout_Passageway": "Passageway",
+"Blockout_Pillar_Bottom": "Pillar Bottom",
+"Blockout_Pillar_Middle": "Pillar Middle",
+"Blockout_Pillar_Top": "Pillar Top",
+"Blockout_Railing": "Railing",
+"Blockout_Railing_Gate": "Railing Gate",
+"Blockout_Railing_Inclined": "Incline Railing",
+"Blockout_Railing_Inclined_Half": "Half Incline Railing",
+"Blockout_Railing_Round_Corner": "Rounded Railing",
+"Blockout_Ramp": "Ramp",
+"Blockout_Ramp_Corner": "Ramp Corner",
+"Blockout_Ramp_Corner_Half": "Half Ramp Corner",
+"Blockout_Ramp_Corner_Half_Inward": "Half Ramp Inwards Corner",
+"Blockout_Ramp_Corner_Inward": "Ramp Inwards Corner",
+"Blockout_Ramp_Edge_Wide_Left": "Wide Ramp Edge Left",
+"Blockout_Ramp_Edge_Wide_Right": "Wide Ramp Edge Right",
+"Blockout_Ramp_Half": "Half Ramp",
+"Blockout_Ramp_Wedge_Bottom": "Blockout Ramp Wedge Bottom",
+"Blockout_Ramp_Wedge_Top": "Blockout Ramp Wedge Top",
+"Blockout_Ramp_Wide": "Wide Ramp",
+"Blockout_Roof": "Roof",
+"Blockout_Roof_Corner": "Roof Corner",
+"Blockout_Roof_Corner_Half": "Angled Roof Corner",
+"Blockout_Roof_Corner_Half_Inward": "Angled Roof Inwards Corner",
+"Blockout_Roof_Corner_Inward": "Roof Inwards Corner",
+"Blockout_Roof_Cover_Bottom_Half_Left": "Half Roof Cover Left",
+"Blockout_Roof_Cover_Bottom_Half_Right": "Half Roof Cover Right",
+"Blockout_Roof_Cover_Bottom_Left": "Roof Cover Left",
+"Blockout_Roof_Cover_Bottom_Right": "Roof Cover Right",
+"Blockout_Roof_Cover_Top_Half_Left": "Half Roof Cover Top Left",
+"Blockout_Roof_Cover_Top_Half_Right": "Half Roof Cover Top Right",
+"Blockout_Roof_Cover_Top_Left": "Roof Cover Top Left",
+"Blockout_Roof_Cover_Top_Right": "Roof Cover Top Right",
+"Blockout_Roof_Half": "Angled Roof",
+"Blockout_Roof_Round_Corner": "Round Roof",
+"Blockout_Roof_Round_Corner_Half": "Rounded Roof",
+"Blockout_Roof_Wedge_Bottom": "Blockout Roof Wedge Bottom",
+"Blockout_Roof_Wedge_Bottom_Half": "Blockout Roof Wedge Bottom Half",
+"Blockout_Roof_Wedge_Top": "Blockout Roof Wedge Top",
+"Blockout_Roof_Wedge_Top_Half": "Blockout Roof Wedge Top Half",
+"Blockout_Rooftop": "Rooftop",
+"Blockout_Stair_Wide": "Wide Stairs",
+"Blockout_Stairs": "Stairs",
+"Blockout_Stairs_Corner": "Stairs Corner",
+"Blockout_Stairs_Corner_Half": "Half Stairs Corner",
+"Blockout_Stairs_Corner_Half_Inward": "Half Stairs Inwards Corner",
+"Blockout_Stairs_Corner_Inward": "Stairs Inwards Corner",
+"Blockout_Stairs_Half": "Half Stairs",
+"Blockout_Tower": "Blockout Tower",
+"Blockout_Wall": "Wall",
+"Blockout_Wall_Corner_Tall": "Tall Ramp Corner",
+"Blockout_Wall_Half": "Half Wall",
+"Blockout_Wall_Inclined_Tall": "Tall Ramp",
+"Blockout_Wall_Inclined_Wide_Left": "Wide Wall Incline Left",
+"Blockout_Wall_Inclined_Wide_Right": "Wide Wall Incline Right",
+"Blockout_Wall_Round_Corner": "Rounded Wall",
+"Blockout_Wall_Round_Corner_Half": "Half Rounded Wall",
+"Blockout_Wall_Triangle_Bottom_Half_Left": "Half Triangle Wall Bottom Left",
+"Blockout_Wall_Triangle_Bottom_Half_Right": "Half Triangle Wall Bottom Right",
+"Blockout_Wall_Triangle_Bottom_Left": "Triangle Wall Bottom Left",
+"Blockout_Wall_Triangle_Bottom_Right": "Triangle Wall Bottom Right",
+"Blockout_Wall_Triangle_Bottom_Tall_Left": "Tall Wall Triangle Left",
+"Blockout_Wall_Triangle_Bottom_Tall_Right": "Tall Wall Triangle Right",
+"Blockout_Wall_Triangle_Top_Half_Left": "Half Triangle Wall Top Left",
+"Blockout_Wall_Triangle_Top_Half_Right": "Half Triangle Wall Top Right",
+"Blockout_Wall_Triangle_Top_Left": "Triangle Wall Top Left",
+"Blockout_Wall_Triangle_Top_Right": "Triangle Wall Top Right",
+"Blockout_Wall_Triangle_Top_Tall_Left": "Tall Wall Triangle Left",
+"Blockout_Wall_Triangle_Top_Tall_Right": "Tall Wall Triangle Right",
+"Blockout_Wall_Triangle_Top_Wide_Left": "Wide Wall Triangle Top Left",
+"Blockout_Wall_Triangle_Top_Wide_Right": "Wide Wall Triangle Top Right",
+"Blockout_Window": "Window",
+"Blockout_Window_Round_Corner": "Rounded Window",
+"BloodWaterExtractionAdvanced_Placeable": "Blood Water Extraction Advanced",
+"BloodWaterExtractor_Placeable": "Blood Purifier",
+"Choam_Banner_Placeable": "CHOAM Banner",
+"Choam_Bed_Placeable": "CHOAM Bed",
+"Choam_Carpet_01_Placeable": "CHOAM Oval Carpet",
+"Choam_Carpet_02_Placeable": "CHOAM Rectangular Carpet",
+"Choam_Chair_1_Placeable": "CHOAM Chair",
+"Choam_CouchBlend_1_Placeable": "CHOAM Couch Bend Right",
+"Choam_CouchBlend_2_Placeable": "CHOAM Couch Bend Left",
+"Choam_CouchCorner_1_Placeable": "CHOAM Couch Outside Corner",
+"Choam_CouchCorner_In_1_Placeable": "CHOAM Couch Inside Corner",
+"Choam_Couch_1_Placeable": "CHOAM Couch",
+"Choam_Deco_Books_01_Placeable": "CHOAM Book Row",
+"Choam_Deco_Books_02_Placeable": "CHOAM Short Book Row",
+"Choam_Deco_Books_03_Placeable": "CHOAM Book Stack",
+"Choam_Deco_Bowl_Placeable": "CHOAM Tureen",
+"Choam_Deco_Carafe_Placeable": "CHOAM Carafe",
+"Choam_Deco_Cup_01_Placeable": "CHOAM Cup",
+"Choam_Deco_Cup_02_Placeable": "CHOAM Mug",
+"Choam_Deco_Hologram_Placeable": "CHOAM Plant Solido",
+"Choam_Deco_Plate_01_Placeable": "CHOAM Serving Plate",
+"Choam_Deco_Plate_02_Placeable": "CHOAM Dining Plate",
+"Choam_Deco_SpiceJar_Placeable": "CHOAM Spice Jar",
+"Choam_Deco_Trophy_Placeable": "CHOAM Icon",
+"Choam_Deco_Vase_01A_Placeable": "CHOAM Tall Orange Vase",
+"Choam_Deco_Vase_01B_Placeable": "CHOAM Short Orange Vase",
+"Choam_Deco_Vase_02A_Placeable": "CHOAM Tall White Vase",
+"Choam_Deco_Vase_02B_Placeable": "CHOAM Short White Vase",
+"Choam_Deco_Vase_03_Placeable": "CHOAM Urn",
+"Choam_DiningTable_Placeable": "CHOAM Dining Table",
+"Choam_Glowglobe_Placeable": "CHOAM Suspensor Lamp",
+"Choam_Level2_Column": "Center Column",
+"Choam_Level2_Column_Corner": "Corner Column",
+"Choam_Level2_Door_Frame": "Door",
+"Choam_Level2_Door_Frame_Wide": "Wide Door",
+"Choam_Level2_Floor": "Floor",
+"Choam_Level2_Floor_Round_Corner": "Rounded Floor",
+"Choam_Level2_Floor_Round_Corner_Inverted": "Rounded Inward Floor",
+"Choam_Level2_Floor_Wedge": "Triangle Floor",
+"Choam_Level2_Foundation": "Foundation",
+"Choam_Level2_Foundation_Round_Corner": "Rounded Foundation",
+"Choam_Level2_Foundation_Wedge": "Triangle Foundation",
+"Choam_Level2_Garage_Door_Frame": "Choam Level 2 Garage Door Frame",
+"Choam_Level2_Hatch": "Hatch",
+"Choam_Level2_Ladder": "Ladder",
+"Choam_Level2_Passageway": "Passageway",
+"Choam_Level2_Pillar_Bottom": "Pillar Bottom",
+"Choam_Level2_Pillar_Middle": "Pillar Middle",
+"Choam_Level2_Pillar_Top": "Pillar Top",
+"Choam_Level2_PrudenceDoor": "Prudence Door",
+"Choam_Level2_Railing": "Railing",
+"Choam_Level2_Railing_Gate": "Railing Gate",
+"Choam_Level2_Railing_Inclined": "Incline Railing",
+"Choam_Level2_Railing_Inclined_Half": "Half Incline Railing",
+"Choam_Level2_Railing_Round_Corner": "Rounded Railing",
+"Choam_Level2_Ramp": "Ramp",
+"Choam_Level2_Ramp_Corner": "Ramp Corner",
+"Choam_Level2_Ramp_Corner_Half": "Half Ramp Corner",
+"Choam_Level2_Ramp_Corner_Half_Inward": "Half Ramp Inwards Corner",
+"Choam_Level2_Ramp_Corner_Inward": "Ramp Inwards Corner",
+"Choam_Level2_Ramp_Half": "Half Ramp",
+"Choam_Level2_Roof_Corner_Half": "Angled Roof Corner",
+"Choam_Level2_Roof_Corner_Half_Inward": "Angled Roof Inwards Corner",
+"Choam_Level2_Roof_Cover_Bottom_Half_Left": "Roof Cover Bottom Left",
+"Choam_Level2_Roof_Cover_Bottom_Half_Right": "Roof Cover Bottom Right",
+"Choam_Level2_Roof_Half": "Angled Roof",
+"Choam_Level2_Roof_Round_Corner_Half": "Rounded Angled Roof Corner",
+"Choam_Level2_Roof_Wedge_Bottom_Half": "Triangle Roof Bottom",
+"Choam_Level2_Roof_Wedge_Top_Half": "Triangle Roof Top",
+"Choam_Level2_Rooftop_01": "Rooftop 2",
+"Choam_Level2_Rooftop_02": "Rooftop",
+"Choam_Level2_Rooftop_Round_Corner": "Rounded Rooftop",
+"Choam_Level2_Rooftop_Round_Corner_Inverted": "Rounded Inward Rooftop",
+"Choam_Level2_Rooftop_Wedge": "Triangle Rooftop",
+"Choam_Level2_Stairs": "Stairs",
+"Choam_Level2_Stairs_Corner": "Stairs Corner",
+"Choam_Level2_Stairs_Corner_Half": "Half Stairs Corner",
+"Choam_Level2_Stairs_Corner_Half_Inward": "Half Stairs Inwards Corner",
+"Choam_Level2_Stairs_Corner_Inward": "Stairs Inwards Corner",
+"Choam_Level2_Stairs_Half": "Half Stairs",
+"Choam_Level2_Wall_01": "Wall",
+"Choam_Level2_Wall_02": "Wall 2",
+"Choam_Level2_Wall_Half": "Half Wall",
+"Choam_Level2_Wall_Round_Corner_01": "Rounded Wall",
+"Choam_Level2_Wall_Round_Corner_02": "Rounded Wall 2",
+"Choam_Level2_Wall_Round_Corner_Half": "Half Rounded Wall",
+"Choam_Level2_Wall_Triangle_Bottom_Half_Left": "Half Triangle Wall Bottom Left",
+"Choam_Level2_Wall_Triangle_Bottom_Half_Right": "Half Triangle Wall Bottom Right",
+"Choam_Level2_Wall_Triangle_Bottom_Left": "Triangle Wall Bottom Left",
+"Choam_Level2_Wall_Triangle_Bottom_Right": "Triangle Wall Bottom Right",
+"Choam_Level2_Wall_Triangle_Top_Half_Left": "Half Triangle Wall Top Left",
+"Choam_Level2_Wall_Triangle_Top_Half_Right": "Half Triangle Wall Top Right",
+"Choam_Level2_Wall_Triangle_Top_Left": "Triangle Wall Top Left",
+"Choam_Level2_Wall_Triangle_Top_Right": "Triangle Wall Top Right",
+"Choam_Level2_Window_01": "Window",
+"Choam_Level2_Window_02": "Window 2",
+"Choam_Level2_Window_Round_Corner_01": "Rounded Window",
+"Choam_Level2_Window_Round_Corner_02": "Rounded Window 2",
+"Choam_LightCeiling_01_Placeable": "CHOAM Ceiling Light",
+"Choam_LightCeiling_02_Placeable": "CHOAM Large Ceiling Light",
+"Choam_LightFloor_Placeable": "CHOAM Floor Light",
+"Choam_LightWall_Placeable": "CHOAM Wall Light",
+"Choam_OfficeTable_Placeable": "CHOAM Desk",
+"Choam_PentashieldSurfaceHorizontal_Placeable": "Pentashield Surface Horizontal",
+"Choam_PentashieldSurfaceVertical_Placeable": "Pentashield Surface Vertical",
+"Choam_Shelter_Column_Corner_New": "Corner Column",
+"Choam_Shelter_Column_New": "Center Column",
+"Choam_Shelter_Door_Frame_New": "Door",
+"Choam_Shelter_Door_Frame_Wide_New": "Wide Door",
+"Choam_Shelter_Floor_New": "Floor",
+"Choam_Shelter_Floor_Round_Corner_Inverted_New": "Rounded Inward Floor",
+"Choam_Shelter_Floor_Round_Corner_New": "Rounded Floor",
+"Choam_Shelter_Floor_Wedge_New": "Triangle Floor",
+"Choam_Shelter_Foundation_New": "Foundation",
+"Choam_Shelter_Foundation_Round_Corner_New": "Rounded Foundation",
+"Choam_Shelter_Foundation_Wedge_New": "Triangle Foundation",
+"Choam_Shelter_Hatch_New": "Hatch",
+"Choam_Shelter_Ladder_New": "Ladder",
+"Choam_Shelter_Passageway_New": "Passageway",
+"Choam_Shelter_Pillar_Bottom_New": "Pillar Bottom",
+"Choam_Shelter_Pillar_Middle_New": "Pillar Middle",
+"Choam_Shelter_Pillar_Top_New": "Pillar Top",
+"Choam_Shelter_Railing_Gate_New": "Railing Gate",
+"Choam_Shelter_Railing_Inclined_Half_New": "Half Incline Railing",
+"Choam_Shelter_Railing_Inclined_New": "Incline Railing",
+"Choam_Shelter_Railing_New": "Railing",
+"Choam_Shelter_Railing_Round_Corner_New": "Rounded Railing",
+"Choam_Shelter_Ramp_Corner_Half_Inward_New": "Half Ramp Inwards Corner",
+"Choam_Shelter_Ramp_Corner_Half_New": "Half Ramp Corner",
+"Choam_Shelter_Ramp_Corner_Inward_New": "Ramp Inwards Corner",
+"Choam_Shelter_Ramp_Corner_New": "Ramp Corner",
+"Choam_Shelter_Ramp_Half_New": "Half Ramp",
+"Choam_Shelter_Ramp_New": "Ramp",
+"Choam_Shelter_Roof_Corner_Half_Inward_New": "Angled Roof Inwards Corner",
+"Choam_Shelter_Roof_Corner_Half_New": "Angled Roof Corner",
+"Choam_Shelter_Roof_Cover_Half_Left_New": "Roof Cover Bottom Left",
+"Choam_Shelter_Roof_Cover_Half_Right_New": "Roof Cover Bottom Right",
+"Choam_Shelter_Roof_Half_New": "Angled Roof",
+"Choam_Shelter_Roof_Round_Corner_Half_New": "Rounded Angled Roof Corner",
+"Choam_Shelter_Roof_Wedge_Bottom_Half_New": "Triangle Roof Bottom",
+"Choam_Shelter_Roof_Wedge_Top_Half_New": "Triangle Roof Top",
+"Choam_Shelter_Rooftop_02_New": "Rooftop",
+"Choam_Shelter_Rooftop_New": "Rooftop 2",
+"Choam_Shelter_Rooftop_Round_Corner_Inverted_New": "Rounded Inward Rooftop",
+"Choam_Shelter_Rooftop_Round_Corner_New": "Rounded Rooftop",
+"Choam_Shelter_Rooftop_Wedge_New": "Triangle Rooftop",
+"Choam_Shelter_Stairs_Corner_Half_Inward_New": "Half Stairs Inwards Corner",
+"Choam_Shelter_Stairs_Corner_Half_New": "Half Stairs Corner",
+"Choam_Shelter_Stairs_Corner_Inward_New": "Stairs Inwards Corner",
+"Choam_Shelter_Stairs_Corner_New": "Stairs Corner",
+"Choam_Shelter_Stairs_Half_New": "Half Stairs",
+"Choam_Shelter_Stairs_New": "Stairs",
+"Choam_Shelter_Wall_01_New": "Wall",
+"Choam_Shelter_Wall_02_New": "Wall 2",
+"Choam_Shelter_Wall_03_New": "Wall 3",
+"Choam_Shelter_Wall_Half_New": "Half Wall",
+"Choam_Shelter_Wall_Round_Corner_01_New": "Rounded Wall",
+"Choam_Shelter_Wall_Round_Corner_02_New": "Rounded Wall 2",
+"Choam_Shelter_Wall_Round_Corner_Half_New": "Half Rounded Wall",
+"Choam_Shelter_Wall_Triangle_Bottom_Half_Left_New": "Half Triangle Wall Bottom Left",
+"Choam_Shelter_Wall_Triangle_Bottom_Half_Right_New": "Half Triangle Wall Bottom Right",
+"Choam_Shelter_Wall_Triangle_Bottom_Left_New": "Triangle Wall Bottom Left",
+"Choam_Shelter_Wall_Triangle_Bottom_Right_New": "Triangle Wall Bottom Right",
+"Choam_Shelter_Wall_Triangle_Top_Half_Left_New": "Half Triangle Wall Top Left",
+"Choam_Shelter_Wall_Triangle_Top_Half_Right_New": "Half Triangle Wall Top Right",
+"Choam_Shelter_Wall_Triangle_Top_Left_New": "Triangle Wall Top Left",
+"Choam_Shelter_Wall_Triangle_Top_Right_New": "Triangle Wall Top Right",
+"Choam_Shelter_Window_New": "Window",
+"Choam_Shelter_Window_Round_Corner_01_New": "Rounded Window",
+"Choam_Shelter_Window_Round_Corner_02_New": "Rounded Window 2",
+"Choam_Shelves_01_Placeable": "CHOAM Bookshelf",
+"Choam_SideTable_Placeable": "CHOAM Side Table",
+"Choam_SmallStorageDrawer_Placeable": "CHOAM Drawers",
+"Choam_StandingLight_01_Placeable": "CHOAM Tall Standing Light",
+"Choam_StandingLight_02_Placeable": "CHOAM Short Standing Light",
+"Choam_WallArt_01_Placeable": "CHOAM Outpost Relief",
+"Choam_WallArt_02_Placeable": "CHOAM Abstract Sculpture",
+"Choam_WallPartition_Placeable": "CHOAM Wall Partition",
+"Choam_Wardrobe_Placeable": "CHOAM Wardrobe",
+"Deathstill_Placeable": "Advanced Fremen Deathstill",
+"Developer_StorageContainer_Placeable": "Developer Storage Container",
+"Fabricator_Placeable": "Fabricator",
+"Fremen_Deathstill_Placeable": "Fremen Deathstill",
+"Generator_Placeable": "Fuel-Powered Generator",
+"GenericContainer_Placeable": "Chest",
+"Hark_Banner_Placeable": "Harkonnen Banner",
+"Hark_Bed_Placeable": "Harkonnen Bed",
+"Hark_Carpet_01_Placeable": "Harkonnen Three Circle Carpet",
+"Hark_Carpet_02_Placeable": "Harkonnen Five Circle Carpet",
+"Hark_Chair_1_Placeable": "Harkonnen Armless Chair",
+"Hark_Chair_2_Placeable": "Harkonnen Armed Chair",
+"Hark_Deco_Books_01_Placeable": "Harkonnen Book Row",
+"Hark_Deco_Books_02_Placeable": "Harkonnen Short Book Row",
+"Hark_Deco_Books_03_Placeable": "Harkonnen Book Stack",
+"Hark_Deco_Bowl_Placeable": "Harkonnen Tureen",
+"Hark_Deco_Carafe_Placeable": "Harkonnen Carafe",
+"Hark_Deco_Cup_01_Placeable": "Harkonnen Suspensor Cup",
+"Hark_Deco_Cup_02_Placeable": "Harkonnen Cup",
+"Hark_Deco_Hologram_Placeable": "Harkonnen Giedi Prime Solido",
+"Hark_Deco_Plate_01_Placeable": "Harkonnen Serving Plate",
+"Hark_Deco_Plate_02_Placeable": "Harkonnen Dinner Plate",
+"Hark_Deco_SpiceJar_Placeable": "Harkonnen Spice Jar",
+"Hark_Deco_Totem_01_Placeable": "Harkonnen Tall Totem",
+"Hark_Deco_Totem_02_Placeable": "Harkonnen Short Totem",
+"Hark_Deco_Trophy_Placeable": "Harkonnen Icon",
+"Hark_Deco_Urn_Placeable": "Harkonnen Urn",
+"Hark_Deco_Vase_01_Placeable": "Harkonnen Tall Vase",
+"Hark_Deco_Vase_02_Placeable": "Harkonnen Short Vase",
+"Hark_DiningTable_Placeable": "Harkonnen Dining Table",
+"Hark_Emperor_Painting_Placeable": "Hark Emperor Painting",
+"Hark_FloorGlowGlobe_1_Player_Placeable": "Harkonnen Glowglobe",
+"Hark_LightCeiling_01_Placeable": "Harkonnen Ceiling Light",
+"Hark_LightCeiling_02_Placeable": "Harkonnen Large Ceiling Light",
+"Hark_LightWall_Placeable": "Harkonnen Wall Light",
+"Hark_OfficeTable_Placeable": "Harkonnen Desk",
+"Hark_Shelves_01_Placeable": "Harkonnen Bookshelf",
+"Hark_SideTable_Placeable": "Harkonnen Side table",
+"Hark_SmallStorageDrawer_Placeable": "Harkonnen Commode",
+"Hark_StandingLight_01_Placeable": "Harkonnen Curved Light",
+"Hark_StandingLight_02_Placeable": "Harkonnen Standing Light",
+"Hark_WallArt_01_Placeable": "Harkonnen Wall Sculpture",
+"Hark_WallArt_02_Placeable": "Harkonnen Wall Symbol",
+"Hark_WallPartition_Placeable": "Harkonnen Wall Partition",
+"Hark_Wardrobe_Placeable": "Harkonnen Wardrobe",
+"Harkonnen_Bench_L_Placeable": "Harkonnen Bench Left",
+"Harkonnen_Bench_R_Placeable": "Harkonnen Bench Right",
+"Harkonnen_Garage_Door_Frame": "Harkonnen Garage Door Frame",
+"Harkonnen_Outpost_Column": "Center Column",
+"Harkonnen_Outpost_Column_Corner": "Corner Column",
+"Harkonnen_Outpost_Door_Frame": "Door",
+"Harkonnen_Outpost_Door_Frame_Tall": "Tall Door",
+"Harkonnen_Outpost_Door_Frame_Wide": "Wide Door",
+"Harkonnen_Outpost_Floor": "Floor",
+"Harkonnen_Outpost_Floor_Round_Corner": "Rounded Floor",
+"Harkonnen_Outpost_Floor_Round_Inverted": "Rounded Inward Floor",
+"Harkonnen_Outpost_Floor_Wedge": "Triangle Floor",
+"Harkonnen_Outpost_Foundation": "Foundation",
+"Harkonnen_Outpost_Foundation_Round_Corner": "Rounded Foundation",
+"Harkonnen_Outpost_Foundation_Wedge": "Triangle Foundation",
+"Harkonnen_Outpost_Gate_Big": "Large Gate",
+"Harkonnen_Outpost_Hatch": "Hatch",
+"Harkonnen_Outpost_Ladder": "Ladder",
+"Harkonnen_Outpost_Passageway": "Passageway",
+"Harkonnen_Outpost_Pillar_Bottom": "Pillar Bottom",
+"Harkonnen_Outpost_Pillar_Middle": "Pillar Middle",
+"Harkonnen_Outpost_Pillar_Top": "Pillar Top",
+"Harkonnen_Outpost_PrudenceDoor_Frame": "Prudence Door",
+"Harkonnen_Outpost_Railing": "Railing",
+"Harkonnen_Outpost_Railing_Gate": "Railing Gate",
+"Harkonnen_Outpost_Railing_Inclined": "Incline Railing",
+"Harkonnen_Outpost_Railing_Inclined_Half": "Half Incline Railing",
+"Harkonnen_Outpost_Railing_Round_Corner": "Rounded Railing",
+"Harkonnen_Outpost_Ramp": "Ramp",
+"Harkonnen_Outpost_Ramp_Corner": "Ramp Corner",
+"Harkonnen_Outpost_Ramp_Corner_Half": "Half Ramp Corner",
+"Harkonnen_Outpost_Ramp_Corner_Half_Inward": "Half Ramp Inwards Corner",
+"Harkonnen_Outpost_Ramp_Corner_Inward": "Ramp Inwards Corner",
+"Harkonnen_Outpost_Ramp_Half": "Half Ramp",
+"Harkonnen_Outpost_Roof_01": "Tall Angled Roof",
+"Harkonnen_Outpost_Roof_02": "Tall Angled Roof 2",
+"Harkonnen_Outpost_Roof_Corner": "Tall Roof Corner",
+"Harkonnen_Outpost_Roof_Corner_Inward": "Tall Roof Inwards Corner",
+"Harkonnen_Outpost_Roof_Cover_Bottom_Left": "Roof Cover Bottom Left",
+"Harkonnen_Outpost_Roof_Cover_Bottom_Right": "Roof Cover Bottom Right",
+"Harkonnen_Outpost_Roof_Round_Corner": "Rounded Tall Roof Corner",
+"Harkonnen_Outpost_Roof_Wedge_Bottom": "Triangle Roof Bottom",
+"Harkonnen_Outpost_Roof_Wedge_Top": "Triangle Roof Top",
+"Harkonnen_Outpost_Rooftop": "Rooftop 2",
+"Harkonnen_Outpost_Rooftop_02": "Rooftop",
+"Harkonnen_Outpost_Rooftop_Round_Corner": "Rounded Rooftop",
+"Harkonnen_Outpost_Rooftop_Round_Inverted": "Rounded Inward Rooftop",
+"Harkonnen_Outpost_Rooftop_Wedge": "Triangle Rooftop",
+"Harkonnen_Outpost_Stairs": "Stairs",
+"Harkonnen_Outpost_Stairs_Corner": "Stairs Corner",
+"Harkonnen_Outpost_Stairs_Corner_Half": "Half Stairs Corner",
+"Harkonnen_Outpost_Stairs_Corner_Half_Inward": "Half Stairs Inwards Corner",
+"Harkonnen_Outpost_Stairs_Corner_Inward": "Stairs Inwards Corner",
+"Harkonnen_Outpost_Stairs_Half": "Half Stairs",
+"Harkonnen_Outpost_Wall_01": "Wall",
+"Harkonnen_Outpost_Wall_02": "Wall 2",
+"Harkonnen_Outpost_Wall_03": "Wall 3",
+"Harkonnen_Outpost_Wall_04": "Wall 4",
+"Harkonnen_Outpost_Wall_Corner_Tall": "Tall Ramp Corner",
+"Harkonnen_Outpost_Wall_Half": "Half Wall",
+"Harkonnen_Outpost_Wall_Inclined_Tall": "Tall Ramp",
+"Harkonnen_Outpost_Wall_Round_Corner": "Rounded Wall",
+"Harkonnen_Outpost_Wall_Round_Corner_02": "Rounded Wall 2",
+"Harkonnen_Outpost_Wall_Round_Corner_03": "Rounded Wall 3",
+"Harkonnen_Outpost_Wall_Round_Corner_Half": "Half Rounded Wall",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Half_Left": "Half Triangle Wall Bottom Left",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Half_Right": "Half Triangle Wall Bottom Right",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Left": "Triangle Wall Bottom Left",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Right": "Triangle Wall Bottom Right",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Tall_Left": "Tall Triangle Wall Left",
+"Harkonnen_Outpost_Wall_Triangle_Bottom_Tall_Right": "Tall Triangle Wall Right",
+"Harkonnen_Outpost_Wall_Triangle_Top_Half-Left": "Half Triangle Wall Top Left",
+"Harkonnen_Outpost_Wall_Triangle_Top_Half_Right": "Half Triangle Wall Top Right",
+"Harkonnen_Outpost_Wall_Triangle_Top_Left": "Triangle Wall Top Left",
+"Harkonnen_Outpost_Wall_Triangle_Top_Right": "Triangle Wall Top Right",
+"Harkonnen_Outpost_Wall_Triangle_Top_Tall_Left": "Tall Triangle Wall Top Left",
+"Harkonnen_Outpost_Wall_Triangle_Top_Tall_Right": "Tall Triangle Wall Top Right",
+"Harkonnen_Outpost_Window": "Window",
+"Harkonnen_Outpost_Window_Round_Corner": "Rounded Window",
+"IceRefinery_Placeable": "Ice Refinery",
+"LandingPad_Floor": "Floor",
+"LandingPad_Floor_Round_Corner": "Landing Pad Floor Round Corner",
+"LandingPad_Wall": "Landing Pad Wall",
+"LandingPad_Wall_Triangle_Top_Left": "Landing Pad Wall Triangle Top Left",
+"LargeOreRefinery_Placeable": "Large Ore Refinery",
+"LargeSpiceRefinery_Placeable": "Large Spice Refinery",
+"LargeWaterCistern_Placeable": "Large Water Cistern",
+"LargeWindtrap_Placeable": "Large Windtrap",
+"MTX_ArakeenAlleyway_Carpet_Placeable": "MTX Arakeen Alleyway Carpet",
+"MTX_Atre_BreakfastRoom_Floor": "Caladan Palace Floor",
+"MTX_Atre_BreakfastRoom_FloorRoundCorner": "Caladan Palace Rounded Floor",
+"MTX_Atre_BreakfastRoom_WallRoundCorner": "Caladan Palace Rounded Wall",
+"MTX_Atre_BreakfastRoom_Wall_01": "Caladan Palace Wall",
+"MTX_Atre_Flagpole_Placeable": "Atreides Small Flagpole",
+"MTX_Atre_Flagship_Relief_Placeable": "MTX Atre Flagship Relief",
+"MTX_Atre_Hologram_CaladanEmblem_Placeable": "Atreides Emblem Solido",
+"MTX_Atre_LetosSeal_Placeable": "Atreides Leto's Seal",
+"MTX_Atre_Movie_Bench_Placeable": "Caladan Bench",
+"MTX_Atre_Movie_Bonsai_Placeable": "Caladan Bonsai Solido",
+"MTX_Atre_Movie_BullStatue_Placeable": "Caladan Bullfighter Statue",
+"MTX_Atre_Movie_Cabinet_Placeable": "Caladan Cabinet",
+"MTX_Atre_Movie_CaladanCastle_Hologram_Placeable": "Atreides Castle Solido",
+"MTX_Atre_Movie_Chair_Placeable": "Caladan Chair",
+"MTX_Atre_Movie_DecorativeBox_Placeable": "Caladan Decorative Box",
+"MTX_Atre_Movie_DecorativePlate_Placeable": "Caladan Wall Panel",
+"MTX_Atre_Movie_DecorativeWineBottle_Placeable": "Caladan Wine Bottle",
+"MTX_Atre_Movie_Dresser_Placeable": "Caladan Dresser",
+"MTX_Atre_Movie_FoodPlatter_01_Placeable": "Caladan Platter",
+"MTX_Atre_Movie_Glass_01_Placeable": "Caladan Drinking Glass",
+"MTX_Atre_Movie_Glass_02_Placeable": "Caladan Tall Drinking Glass",
+"MTX_Atre_Movie_LargeCarpet_Placeable": "Caladan Carpet",
+"MTX_Atre_Movie_LargeDesk_Placeable": "Caladan Desk",
+"MTX_Atre_Movie_Painting_Placeable": "Caladan Bullfighter Painting",
+"MTX_Atre_Movie_PlateCutlery_Placeable": "Caladan Dining Plate",
+"MTX_Atre_Movie_SmallCarpet_Placeable": "Caladan Small Carpet",
+"MTX_Atre_Movie_Table_Placeable": "Caladan Table",
+"MTX_Atre_Movie_Vase_01_Placeable": "Caladan Vase",
+"MTX_Atre_Movie_WaterPitcher_Placeable": "Caladan Carafe",
+"MTX_Atre_Movie_WindChimes_Placeable": "Caladan Windchimes",
+"MTX_Atre_RadiationCrate_Placeable": "Sealed Radiation Containment Chest",
+"MTX_Atre_Sculpture_01_Placeable": "Atreides Helm Spire",
+"MTX_Atre_Sculpture_02_Placeable": "Atreides Victory Spire",
+"MTX_Atre_TeaHouse_WallRelief_Placeable": "MTX Atre Tea House Wall Relief",
+"MTX_Atre_TeaSet_Baliset_Placeable": "Contemplation Tea House Baliset",
+"MTX_Atre_TeaSet_Chair_Placeable": "Contemplation Tea House Stool",
+"MTX_Atre_TeaSet_LowerBar_Placeable": "Contemplation Tea House Counter Top",
+"MTX_Atre_TeaSet_Sofa_Placeable": "Contemplation Tea House Sofa",
+"MTX_Atre_TeaSet_Table_Placeable": "Contemplation Tea House Table",
+"MTX_Atre_TeaSet_TeaService_Placeable": "Contemplation Tea House Tea Service",
+"MTX_Atre_TeaSet_UpperBar_Placeable": "Contemplation Tea House Gantry",
+"MTX_Atre_TeaSet_WallRelief_Placeable": "Contemplation Tea House Wall Relief",
+"MTX_Atre_Troopship_Relief_Placeable": "MTX Atre Troopship Relief",
+"MTX_Atreides_Outpost_Bookshelf": "Caladan Palace Bookshelf Wall",
+"MTX_Atreides_Outpost_DoorFrame": "Caladan Palace Passageway",
+"MTX_Atreides_Outpost_FloorLight_Movie": "Caladan Palace Ceiling",
+"MTX_Atreides_Outpost_Window_Movie": "MTX Atreides Outpost Window Movie",
+"MTX_B1C5_BeastRabban_Projector_Placeable": "MTX B1 C5 Beast Rabban Projector",
+"MTX_B1C5_Choam_Level2Extention_Column": "MTX B1 C5 Choam Level 2 Extention Column",
+"MTX_B1C5_Choam_Level2Extention_Column_Corner": "MTX B1 C5 Choam Level 2 Extention Column Corner",
+"MTX_B1C5_Choam_Level2Extention_Floor_01": "MTX B1 C5 Choam Level 2 Extention Floor 01",
+"MTX_B1C5_Choam_Level2Extention_Passageway_01": "MTX B1 C5 Choam Level 2 Extention Passageway 01",
+"MTX_B1C5_Choam_Level2Extention_Rooftop_01": "MTX B1 C5 Choam Level 2 Extention Rooftop 01",
+"MTX_B1C5_Choam_Level2Extention_Wall_01": "MTX B1 C5 Choam Level 2 Extention Wall 01",
+"MTX_B1C5_Choam_Level2Extention_Wall_02": "MTX B1 C5 Choam Level 2 Extention Wall 02",
+"MTX_B1C5_Choam_Level2Extention_Wall_03": "MTX B1 C5 Choam Level 2 Extention Wall 03",
+"MTX_B1C5_Choam_Level2Extention_Wall_Round_Corner": "MTX B1 C5 Choam Level 2 Extention Wall Round Corner",
+"MTX_B1C5_DukeLeto_Projector_Placeable": "MTX B1 C5 Duke Leto Projector",
+"MTX_B1C5_WaterFatManor_Projector_Placeable": "MTX B1 C5 Water Fat Manor Projector",
+"MTX_B1C5_WormMouthMural_Placeable": "MTX B1 C5 Worm Mouth Mural",
+"MTX_Caladan_Movie_Bed_Placeable": "Caladan Bed",
+"MTX_Caladan_Movie_Cushion_Placeable": "Caladan Cushion",
+"MTX_Caladan_Movie_Mural_Placeable": "Caladan Mural",
+"MTX_Choam_KirabTurret_Placeable": "MTX Choam Kirab Turret",
+"MTX_Choam_Sculpture_01_Placeable": "CHOAM Helm Spire",
+"MTX_Choam_Sculpture_02_Placeable": "CHOAM Victory Spire",
+"MTX_Choam_TwitchReward_Column": "Observer Column",
+"MTX_Choam_TwitchReward_Column_02": "Observer Column 02",
+"MTX_Choam_TwitchReward_Door": "Observer Door",
+"MTX_Choam_TwitchReward_Floor": "Observer Floor",
+"MTX_Choam_TwitchReward_Floor_Round": "Observer Round Floor",
+"MTX_Choam_TwitchReward_Foundation": "Observer Foundation",
+"MTX_Choam_TwitchReward_Foundation_Round_Corner": "Observer Round Corner Foundation",
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Left": "Observer Half Triangle Bottom Left",
+"MTX_Choam_TwitchReward_Half_Triangle_Bottom_Right": "Observer Half Triangle Bottom Right",
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Left": "Observer Half Triangle Top Left",
+"MTX_Choam_TwitchReward_Half_Triangle_Top_Right": "Observer Half Triangle Top Right",
+"MTX_Choam_TwitchReward_Hatch": "MTX Choam Twitch Reward Hatch",
+"MTX_Choam_TwitchReward_Ladder": "Observer Ladder",
+"MTX_Choam_TwitchReward_Passageway": "Observer Passageway",
+"MTX_Choam_TwitchReward_Pillar_Bottom": "Observer Pillar Bottom",
+"MTX_Choam_TwitchReward_Pillar_Middle": "Observer Pillar Middle",
+"MTX_Choam_TwitchReward_Pillar_Top": "Observer Pillar Top",
+"MTX_Choam_TwitchReward_Railing_01": "Observer Railing",
+"MTX_Choam_TwitchReward_Railing_Corner_Round": "MTX Choam Twitch Reward Railing Corner Round",
+"MTX_Choam_TwitchReward_Railing_Gate": "Observer Railing Gate",
+"MTX_Choam_TwitchReward_Railing_Inclined": "Observer Inclined Railing",
+"MTX_Choam_TwitchReward_Roof_Corner": "Observer Roof Corner",
+"MTX_Choam_TwitchReward_Roof_Corner_Inverted": "Observer Inverted Roof Corner",
+"MTX_Choam_TwitchReward_Roof_Corner_Round": "Observer Round Roof Corner",
+"MTX_Choam_TwitchReward_Roof_Half": "Observer Roof Half",
+"MTX_Choam_TwitchReward_Rooftop": "Observer Rooftop",
+"MTX_Choam_TwitchReward_Stairs": "Observer Stairs",
+"MTX_Choam_TwitchReward_Stairs_Corner": "Observer Stairs Corner",
+"MTX_Choam_TwitchReward_Stairs_Corner_Inverted": "Observer Stairs Corner Inverted",
+"MTX_Choam_TwitchReward_Triangle_Bottom_Left": "Observer Triangle Bottom Left",
+"MTX_Choam_TwitchReward_Triangle_Bottom_Right": "Observer Triangle Bottom Right",
+"MTX_Choam_TwitchReward_Triangle_Top_Left": "Observer Triangle Top Left",
+"MTX_Choam_TwitchReward_Triangle_Top_Right": "Observer Triangle Top Right",
+"MTX_Choam_TwitchReward_Wall_01": "Observer Wall",
+"MTX_Choam_TwitchReward_Wall_02": "Observer Wall 2",
+"MTX_Choam_TwitchReward_Wall_Half": "Observer Wall Half",
+"MTX_Choam_TwitchReward_Wall_Round": "Observer Round Wall",
+"MTX_Choam_TwitchReward_Window_01": "Observer Window",
+"MTX_Choam_TwitchReward_Window_Round": "MTX Choam Twitch Reward Window Round",
+"MTX_DestroyedZanovar_Hologram_Placeable": "MTX Destroyed Zanovar Hologram",
+"MTX_DualBladesDeco_Placeable": "MTX Dual Blades Deco",
+"MTX_Env_Prop_MovieTeaser_Throne_Placeable": "MTX Env Prop Movie Teaser Throne",
+"MTX_Frem_FremKit_BoardGame_Placeable": "Fremkit Board Game",
+"MTX_Frem_FremKit_Glowglobe_Placeable": "Fremkit Suspensor Lamp",
+"MTX_Frem_FremKit_Stove_Placeable": "Fremkit Stove",
+"MTX_Hark_FleshTube_01_Placeable": "Flesh Sculpting Display 1",
+"MTX_Hark_FleshTube_02_Placeable": "Flesh Sculpting Display 2",
+"MTX_Hark_FleshTube_03_Placeable": "Flesh Sculpting Display 3",
+"MTX_Hark_Sculpture_01_Placeable": "Harkonnen Helm Spire",
+"MTX_Hark_Sculpture_02_Placeable": "Harkonnen Victory Spire",
+"MTX_IxianTotem_Placeable": "MTX Ixian Totem",
+"MTX_MaasKharet_Glowglobe_Placeable": "MTX Maas Kharet Glowglobe",
+"MTX_MinotaurMaskWall_Placeable": "MTX Minotaur Mask Wall",
+"MTX_MovieTeaser_FirePlace_Placeable": "Caladan Hallfire",
+"MTX_Neut_ChristmasTree_Hologram_Placeable": "MTX Neut Christmas Tree Hologram",
+"MTX_Neut_Crucifixion_01_Placeable": "Decussate Cross",
+"MTX_Neut_DesertMechanicSet_Glowglobe_Placeable": "Dune Man's Work Light",
+"MTX_Neut_DesertMechanicSet_Projector_Placeable": "Treadwheel Solido",
+"MTX_Neut_DesertMechanicSet_SandbikePainting_Placeable": "Sandbike Engraving",
+"MTX_Neut_DesertMechanicSet_Sign_Placeable": "Desert Mechanic Sign",
+"MTX_Neut_DesertMechanicSet_Toolbox_Placeable": "Dune Man Mechanic's Kit",
+"MTX_Neut_DesertMechanic_Center_Column": "MTX Neut Desert Mechanic Center Column",
+"MTX_Neut_DesertMechanic_Corner_Column": "MTX Neut Desert Mechanic Corner Column",
+"MTX_Neut_DesertMechanic_DismantledSandbike_Placeable": "Desert Mechanic Dismantled Sandbike",
+"MTX_Neut_DesertMechanic_Door_Frame_Wide": "Wide Door",
+"MTX_Neut_DesertMechanic_Floor": "Floor",
+"MTX_Neut_DesertMechanic_Floor_Wedge": "MTX Neut Desert Mechanic Floor Wedge",
+"MTX_Neut_DesertMechanic_Foundation": "Foundation",
+"MTX_Neut_DesertMechanic_Foundation_Wedge": "MTX Neut Desert Mechanic Foundation Wedge",
+"MTX_Neut_DesertMechanic_Garage_Door_Frame": "MTX Neut Desert Mechanic Garage Door Frame",
+"MTX_Neut_DesertMechanic_Passageway": "MTX Neut Desert Mechanic Passageway",
+"MTX_Neut_DesertMechanic_Prudence_Door_Frame": "MTX Neut Desert Mechanic Prudence Door Frame",
+"MTX_Neut_DesertMechanic_Railing": "MTX Neut Desert Mechanic Railing",
+"MTX_Neut_DesertMechanic_Ramp": "MTX Neut Desert Mechanic Ramp",
+"MTX_Neut_DesertMechanic_Rooftop": "MTX Neut Desert Mechanic Rooftop",
+"MTX_Neut_DesertMechanic_Rooftop_Corner": "MTX Neut Desert Mechanic Rooftop Corner",
+"MTX_Neut_DesertMechanic_Rooftop_Corner_Inverted": "MTX Neut Desert Mechanic Rooftop Corner Inverted",
+"MTX_Neut_DesertMechanic_SpareWheel_Placeable": "Desert Mechanic Sandbike Track",
+"MTX_Neut_DesertMechanic_Staircase": "MTX Neut Desert Mechanic Staircase",
+"MTX_Neut_DesertMechanic_StorageContainer_Placeable": "Desert Mechanic Bike Components",
+"MTX_Neut_DesertMechanic_Wall": "Wall",
+"MTX_Neut_DesertMechanic_Wall_02": "MTX Neut Desert Mechanic Wall 02",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Bottom_Left": "MTX Neut Desert Mechanic Wall Triangle Bottom Left",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Bottom_Right": "MTX Neut Desert Mechanic Wall Triangle Bottom Right",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Top_Left": "MTX Neut Desert Mechanic Wall Triangle Top Left",
+"MTX_Neut_DesertMechanic_Wall_Triangle_Top_Right": "MTX Neut Desert Mechanic Wall Triangle Top Right",
+"MTX_Neut_DesertMechanic_Window_01": "MTX Neut Desert Mechanic Window 01",
+"MTX_Neut_Gunner_Column": "Sentinel  Column",
+"MTX_Neut_Gunner_Floor": "Sentinel Floor",
+"MTX_Neut_Gunner_Foundation": "Sentinel Foundation",
+"MTX_Neut_Gunner_Railing_01": "Sentinel Railing",
+"MTX_Neut_Gunner_Railing_02": "Sentinel Railing 2",
+"MTX_Neut_Gunner_Railing_Round_Corner": "Sentinel Rounded Railing",
+"MTX_Neut_HarvesterCaptainChair_Placeable": "MTX Neut Harvester Captain Chair",
+"MTX_Neut_JailSet_Door_Frame": "Door",
+"MTX_Neut_JailSet_Floor": "Jail Floor",
+"MTX_Neut_JailSet_Foundation": "Foundation",
+"MTX_Neut_JailSet_Wall_01": "Wall",
+"MTX_Neut_JailSet_Wall_02": "Wall 2",
+"MTX_Neut_LightPole_Placeable": "Jury-Rigged Light Stand",
+"MTX_Neut_MeltedCorpse_01_Placeable": "Cadaverous Decor 1",
+"MTX_Neut_MeltedCorpse_02_Placeable": "Cadaverous Decor 2",
+"MTX_Neut_MeltedCorpse_03_Placeable": "Cadaverous Decor 3",
+"MTX_Neut_MuadDibCage_Placeable": "Terrarium of Muad’dib",
+"MTX_Neut_MuralPainting_01_Placeable": "MTX Neut Mural Painting 01",
+"MTX_Neut_MuralPainting_02_Placeable": "MTX Neut Mural Painting 02",
+"MTX_Neut_MuralPainting_03_Placeable": "MTX Neut Mural Painting 03",
+"MTX_Neut_Raider_Makeshift_Lampost_Placeable": "MTX Neut Raider Makeshift Lampost",
+"MTX_Neut_Skeleton_01_Placeable": "Osseous Decor 1",
+"MTX_Neut_Skeleton_02_Placeable": "Osseous Decor 2",
+"MTX_Neut_Skeleton_03_Placeable": "Osseous Decor 3",
+"MTX_Neut_Statue_Bat_Placeable": "Chiroptera Statue",
+"MTX_Neut_StrategyRoomCarpet_Placeable": "Lavish Carpet",
+"MTX_Neut_TeleporterDevice_Placeable": "MTX Neut Teleporter Device",
+"MTX_Neut_VacuumBodies_Placeable": "Vacuum-Sealed Body Display",
+"MTX_PhaedraPortrait_Placeable": "MTX Phaedra Portrait",
+"MTX_RevMotherFloatingChair_Placeable": "MTX Rev Mother Floating Chair",
+"MTX_SardaukarFightingDummy_Placeable": "MTX Sardaukar Fighting Dummy",
+"MTX_Smug_Banner_Placeable": "Smuggler Banner",
+"MTX_Smug_Bed_Placeable": "Smuggler Bed",
+"MTX_Smug_Books_01_Placeable": "Smuggler Book Row",
+"MTX_Smug_Books_02_Placeable": "Smuggler Large Book Row",
+"MTX_Smug_Books_03_Placeable": "Smuggler Book Stack",
+"MTX_Smug_Carpet_Placeable": "Smuggler Luxury Carpet",
+"MTX_Smug_Chair_Placeable": "Smuggler Barrel Chair",
+"MTX_Smug_Chandelier_Placeable": "Smuggler Chandelier",
+"MTX_Smug_Column": "Column",
+"MTX_Smug_Corner_Column": "Corner Column",
+"MTX_Smug_Couch_Corner_In_Placeable": "Smuggler Sectional Sofa Inside Corner ",
+"MTX_Smug_Couch_Corner_Placeable": "Smuggler Sectional Sofa Outside Corner",
+"MTX_Smug_Couch_Placeable": "Smuggler Sectional Sofa",
+"MTX_Smug_DiningTable_Placeable": "MTX Smug Dining Table",
+"MTX_Smug_Door_Frame": "MTX Smug Door Frame",
+"MTX_Smug_Door_Frame_Wide": "MTX Smug Door Frame Wide",
+"MTX_Smug_Floor": "Floor",
+"MTX_Smug_Floor_Round_Corner": "Rounded Floor",
+"MTX_Smug_Floor_Round_Corner_Inverted": "Rounded Inward Floor",
+"MTX_Smug_Floor_Wedge": "Triangle Floor",
+"MTX_Smug_Foundation": "Foundation",
+"MTX_Smug_Foundation_Round_Corner": "Rounded Foundation",
+"MTX_Smug_Foundation_Wedge": "Triangle Foundation",
+"MTX_Smug_Garage_Door_Frame": "MTX Smug Garage Door Frame",
+"MTX_Smug_Hatch": "MTX Smug Hatch",
+"MTX_Smug_Ladder": "Ladder",
+"MTX_Smug_LightWall_Placeable": "MTX Smug Light Wall",
+"MTX_Smug_Light_Ceiling_Placeable": "Smuggler Ceiling Lights",
+"MTX_Smug_Passageway": "Passageway",
+"MTX_Smug_Pillar_Bottom": "Pillar Bottom",
+"MTX_Smug_Pillar_Middle": "Pillar Middle",
+"MTX_Smug_Pillar_Top": "Pillar Top",
+"MTX_Smug_Prudence_Door_Frame": "Prudence Door",
+"MTX_Smug_Railing": "Railing",
+"MTX_Smug_Railing_Gate": "Railing Gate",
+"MTX_Smug_Railing_Inclined_Half_Left": "MTX Smug Railing Inclined Half Left",
+"MTX_Smug_Railing_Inclined_Left": "Incline Railing Left",
+"MTX_Smug_Railing_Inclined_Right": "Incline Railing Right",
+"MTX_Smug_Railing_Inclined_Right_Half": "Half Incline Railing Right",
+"MTX_Smug_Railing_Round_Corner": "Rounded Railing",
+"MTX_Smug_Ramp": "Ramp",
+"MTX_Smug_Ramp_Corner": "Ramp Corner",
+"MTX_Smug_Ramp_Corner_Half": "Half Ramp Corner",
+"MTX_Smug_Ramp_Corner_Inverted": "Ramp Inwards Corner",
+"MTX_Smug_Ramp_Corner_Inverted_Half": "Half Ramp Inwards Corner",
+"MTX_Smug_Ramp_Half": "Half Ramp",
+"MTX_Smug_Roof_Corner_Half_01": "Angled Roof Corner",
+"MTX_Smug_Roof_Corner_Half_02": "Angled Roof Corner 2",
+"MTX_Smug_Roof_Corner_Half_Inverted_02": "Angled Roof Inwards Corner 2",
+"MTX_Smug_Roof_Corner_Half_inverted_01": "Angled Roof Inwards Corner",
+"MTX_Smug_Roof_Cover_Bottom_Half_L": "MTX Smug Roof Cover Bottom Half L",
+"MTX_Smug_Roof_Cover_Bottom_Half_R": "MTX Smug Roof Cover Bottom Half R",
+"MTX_Smug_Roof_Half_01": "Angled Roof",
+"MTX_Smug_Roof_Half_02": "Angled Roof 2",
+"MTX_Smug_Roof_Round_Corner_Half_01_A": "MTX Smug Roof Round Corner Half 01 A",
+"MTX_Smug_Roof_Round_Corner_Half_01_B": "MTX Smug Roof Round Corner Half 01 B",
+"MTX_Smug_Roof_Round_Corner_Half_02": "Rounded Angled Roof Corner 2",
+"MTX_Smug_Roof_Wedge_Bottom_Half": "Triangle Roof Bottom",
+"MTX_Smug_Rooftop_01": "Rooftop",
+"MTX_Smug_Rooftop_02": "Rooftop 2",
+"MTX_Smug_Rooftop_Round_Corner": "Rounded Rooftop",
+"MTX_Smug_Rooftop_Round_Corner_Inverted": "Rounded Inward Rooftop",
+"MTX_Smug_Rooftop_Wedge": "Triangle Rooftop",
+"MTX_Smug_Rooftop_Wedge_Top_Half": "Triangle Roof Top",
+"MTX_Smug_Shelves_02_Placeable": "Smuggler Shelves 2",
+"MTX_Smug_Stairs": "Stairs",
+"MTX_Smug_Stairs_Corner": "Stairs Corner",
+"MTX_Smug_Stairs_Corner_Half": "Half Stairs Corner",
+"MTX_Smug_Stairs_Corner_Inverted": "Stairs Inwards Corner",
+"MTX_Smug_Stairs_Corner_Inverted_Half": "Half Stairs Inwards Corner",
+"MTX_Smug_Stairs_Half": "Half Stairs",
+"MTX_Smug_TableLamp_Placeable": "MTX Smug Table Lamp",
+"MTX_Smug_Trophy_Placeable": "Smuggler Icon",
+"MTX_Smug_Wall_01": "Wall",
+"MTX_Smug_Wall_02": "Wall 2",
+"MTX_Smug_Wall_03": "Wall 3",
+"MTX_Smug_Wall_04": "Wall 4",
+"MTX_Smug_Wall_Half": "Half Wall",
+"MTX_Smug_Wall_Round_Corner_01": "Rounded Wall",
+"MTX_Smug_Wall_Round_Corner_02": "Rounded Wall 2",
+"MTX_Smug_Wall_Round_Corner_Half": "Half Rounded Wall",
+"MTX_Smug_Wall_Triangle_Bottom_Left": "Triangle Wall Bottom Left",
+"MTX_Smug_Wall_Triangle_Bottom_Left_Half": "Half Triangle Wall Bottom Left",
+"MTX_Smug_Wall_Triangle_Bottom_Right": "Triangle Wall Bottom Right",
+"MTX_Smug_Wall_Triangle_Bottom_Right_Half": "Half Triangle Wall Bottom Right",
+"MTX_Smug_Wall_Triangle_Top_Left": "Triangle Wall Top Left",
+"MTX_Smug_Wall_Triangle_Top_Left_Half": "Half Triangle Wall Top Left",
+"MTX_Smug_Wall_Triangle_Top_Right": "Triangle Wall Top Right",
+"MTX_Smug_Wall_Triangle_Top_Right_Half": "Half Triangle Wall Top Right",
+"MTX_Smug_Window_01": "Window",
+"MTX_Smug_Window_02": "Window 2",
+"MTX_Smug_Window_Round_Corner": "Rounded Window",
+"MTX_TheGluttonRedLight_Glowglobe_Placeable": "MTX The Glutton Red Light Glowglobe",
+"MediumChemicalRefinery_Placeable": "Medium Chemical Refinery",
+"MediumInsulatedCistern_Placeable": "Medium Insulated Cistern",
+"MediumOreRefinery_Placeable": "Medium Ore Refinery",
+"MediumSpiceRefinery_Placeable": "Medium Spice Refinery",
+"MediumStorageContainer_Placeable": "Medium Storage Container",
+"MediumWaterCistern_Placeable": "Medium Water Cistern",
+"ModdingStation_Placeable": "Modding Station",
+"Neut_Gunner_DismantledScattergun_Placeable": "Sentinel Dismantled Scattergun",
+"Neut_Gunner_GunStorage_Placeable": "Sentinel Gun Cabinet",
+"Neut_Gunner_WorkingTable_Placeable": "Sentinel Work Table",
+"Neut_JailSet_Bed_Placeable": "Jail Bed",
+"Neut_JailSet_WaterPoint_Placeable": "Jail Drinking Fountain",
+"Neut_Kaitain_BirdHouse_Placeable": "Kaitain Birdhouse",
+"Neut_Kaitain_Bush_Corner_Placeable": "Kaitain Bush Planter Corner",
+"Neut_Kaitain_Bush_Straight_Placeable": "Kaitain Bush Planter",
+"Neut_Kaitain_Flowerbed_Corner_Placeable": "Kaitain Flowerbed Corner",
+"Neut_Kaitain_Flowerbed_Straight_Placeable": "Kaitain Flower Bed",
+"Neut_Kaitain_LargeFountain_Placeable": "Kaitain Large Fountain",
+"Neut_Kaitain_SmallFountain_Placeable": "Kaitain Small Fountain",
+"Neut_Kaitain_Tree_Corner_Placeable": "Kaitain Tree Planter Corner",
+"Neut_Kaitain_Tree_Straight_Placeable": "Kaitain Tree Planter",
+"Neut_Kaitan_Cheops_Placeable": "Kaitain Cheops Board",
+"Neut_Miniature_AtreidesTroops_Placeable": "Opulent Atreides Miniature",
+"Neut_Miniature_HarkonnenTroops_Placeable": "Opulent Harkonnen Miniature",
+"Neut_Miniature_Harvester_Placeable": "Opulent Harvester Miniature",
+"Neut_Miniature_Ornithopter_Placeable": "Opulent Ornithopters Miniature",
+"Neut_Miniature_Sandbike_Placeable": "Opulent Sandbike Miniature",
+"Neut_Miniature_SpiceField_Placeable": "Opulent Spice Blow Miniature",
+"Neut_Miniature_StrategyFlag_Placeable": "Opulent Flag Miniature",
+"Neut_Miniature_Tank_Placeable": "Opulent Tank Miniature",
+"Neut_Miniature_Transport_Placeable": "Opulent Transport Ornithopters Miniature",
+"Neut_Miniature_Worm_Placeable": "Opulent Worm Miniature",
+"Neut_Statue_DesertMouse_Placeable": "Muad'Dib Statue",
+"Neut_Statue_KulonDonkey_Placeable": "Kulon Statue",
+"Neut_Statue_LargeSandworm_Placeable": "Sandworm Statue",
+"Neut_StrategyTable_Placeable": "Ornate Strategy Table",
+"Neut_Strategy_RoomSign_Placeable": "Extravagant Holographic Room Sign",
+"OutpostChair_1_Placeable": "CHOAM Backless Chair",
+"PolarFabricator_Placeable": "PH_Polar Fabricator",
+"Recycler_Placeable": "Recycler",
+"RepairStation_Placeable": "Repair Station",
+"Sardaukar_Column": "Column",
+"Sardaukar_Column_corner": "Corner Column",
+"Sardaukar_Door_Frame": "Door Right",
+"Sardaukar_Door_Frame_L": "Door Left",
+"Sardaukar_Door_Frame_Tall": "Tall Door Right",
+"Sardaukar_Door_Frame_Tall_L": "Tall Door Left",
+"Sardaukar_Door_Frame_Wide": "Wide Passageway",
+"Sardaukar_Floor": "Floor",
+"Sardaukar_Floor_02": "Floor 2",
+"Sardaukar_Floor_Round_Corner": "Rounded Floor",
+"Sardaukar_Floor_Round_Corner_02": "Rounded Floor 2",
+"Sardaukar_Floor_Round_Inverted": "Rounded Inward Floor",
+"Sardaukar_Floor_Wedge": "Triangle Floor",
+"Sardaukar_Foundation": "Foundation",
+"Sardaukar_Foundation_Round_Corner": "Rounded Foundation",
+"Sardaukar_Foundation_Wedge": "Triangle Foundation",
+"Sardaukar_Garage_Door_Frame": "Garage Door",
+"Sardaukar_Passageway": "Passageway",
+"Sardaukar_Pillar_Bottom": "Pillar Bottom",
+"Sardaukar_Pillar_Middle": "Pillar Middle",
+"Sardaukar_Pillar_Top": "Pillar Top",
+"Sardaukar_PrudenceDoor_Frame": "Prudence Door",
+"Sardaukar_PrudenceDoor_Frame_L": "Sardaukar Prudence Door Frame L",
+"Sardaukar_Railing": "Railing",
+"Sardaukar_Railing_Gate": "Railing Gate",
+"Sardaukar_Railing_Inclined": "Incline Railing",
+"Sardaukar_Railing_Inclined_Half": "Half Incline Railing",
+"Sardaukar_Railing_Round_Corner": "Rounded Railing",
+"Sardaukar_Ramp": "Ramp",
+"Sardaukar_Ramp_Corner": "Ramp Corner",
+"Sardaukar_Ramp_Corner_Half": "Half Ramp Corner",
+"Sardaukar_Ramp_Corner_Half_Inward": "Half Ramp Inwards Corner",
+"Sardaukar_Ramp_Corner_Inward": "Ramp Inwards Corner",
+"Sardaukar_Ramp_Half": "Half Ramp",
+"Sardaukar_Roof_01": "Tall Angled Roof",
+"Sardaukar_Roof_02": "Tall Angled Roof 2 Right",
+"Sardaukar_Roof_02_L": "Tall Angled Roof 2 Left",
+"Sardaukar_Roof_03": "Tall Angled Roof 3 Right",
+"Sardaukar_Roof_03_L": "Tall Angled Roof 3 Left",
+"Sardaukar_Roof_Corner": "Tall Roof Corner",
+"Sardaukar_Roof_Corner_Inward": "Tall Roof Inwards Corner",
+"Sardaukar_Roof_Round_Corner": "Rounded Tall Roof Corner",
+"Sardaukar_Roof_Wedge_Bottom": "Triangle Roof Bottom",
+"Sardaukar_Roof_Wedge_Top": "Triangle Roof Top",
+"Sardaukar_Rooftop_01": "Rooftop",
+"Sardaukar_Rooftop_02": "Rooftop 2",
+"Sardaukar_Rooftop_Round_Corner": "Rounded Rooftop",
+"Sardaukar_Rooftop_Round_Inverted": "Rounded Inward Rooftop",
+"Sardaukar_Rooftop_Wedge": "Triangle Rooftop",
+"Sardaukar_Stairs": "Stairs",
+"Sardaukar_Stairs_Corner": "Stairs Corner",
+"Sardaukar_Stairs_Corner_Half": "Half Stairs Corner",
+"Sardaukar_Stairs_Corner_Half_Inward": "Half Stairs Inwards Corner",
+"Sardaukar_Stairs_Corner_Inward": "Stairs Inwards Corner",
+"Sardaukar_Stairs_Half": "Half Stairs",
+"Sardaukar_Wall_01": "Wall Right",
+"Sardaukar_Wall_02": "Wall 2",
+"Sardaukar_Wall_02_L": "Sardaukar Wall 02 L",
+"Sardaukar_Wall_03": "Wall 3",
+"Sardaukar_Wall_Half": "Half Wall",
+"Sardaukar_Wall_Inclined_Corner_Tall": "Tall Ramp Corner Right",
+"Sardaukar_Wall_Inclined_Corner_Tall_L": "Tall Ramp Corner Left",
+"Sardaukar_Wall_Inclined_Tall_01": "Tall Ramp Right",
+"Sardaukar_Wall_Inclined_Tall_01_L": "Tall Ramp Corner Left",
+"Sardaukar_Wall_Inclined_Tall_02": "Tall Ramp 2 Right",
+"Sardaukar_Wall_Inclined_Tall_02_L": "Tall Ramp 2 Left",
+"Sardaukar_Wall_Round_Corner": "Rounded Wall",
+"Sardaukar_Wall_Round_Corner_Half": "Half Rounded Wall",
+"Sardaukar_Wall_Triangle_Bottom_Half_Left": "Half Triangle Wall Bottom Left",
+"Sardaukar_Wall_Triangle_Bottom_Half_Right": "Half Triangle Wall Bottom Right",
+"Sardaukar_Wall_Triangle_Bottom_Left": "Triangle Wall Bottom Left",
+"Sardaukar_Wall_Triangle_Bottom_Right": "Triangle Wall Bottom Right",
+"Sardaukar_Wall_Triangle_Bottom_Tall_Left": "Tall Triangle Wall Left",
+"Sardaukar_Wall_Triangle_Bottom_Tall_Right": "Tall Triangle Wall Right",
+"Sardaukar_Wall_Triangle_Top_Half_Left": "Half Triangle Wall Top Left",
+"Sardaukar_Wall_Triangle_Top_Half_Right": "Half Triangle Wall Top Right",
+"Sardaukar_Wall_Triangle_Top_Left": "Triangle Wall Top Left",
+"Sardaukar_Wall_Triangle_Top_Right": "Triangle Wall Top Right",
+"Sardaukar_Wall_Triangle_Top_Tall_Left": "Tall Triangle Wall Top Left",
+"Sardaukar_Wall_Triangle_Top_Tall_Right": "Tall Triangle Wall Top Right",
+"Sardaukar_Window": "Window Right",
+"Sardaukar_Window_Inclined_Tall": "Inclined Tall Window Right",
+"Sardaukar_Window_Inclined_Tall_L": "Inclined Tall Window Left",
+"Sardaukar_Window_L": "Window Left",
+"Sardaukar_Window_Round_Corner": "Rounded Window",
+"SmallChemicalRefinery_Placeable": "Small Chemical Refinery",
+"SmallInsulatedCistern_Placeable": "Small Insulated Cistern",
+"SmallOreRefinery_Placeable": "Small Ore Refinery",
+"SpiceGenerator_Placeable": "Spice Generator",
+"SpiceRefinery_Placeable": "Spice Refinery",
+"SpiceSilo_Placeable": "Small Storage Container",
+"StorageContainer_Placeable": "Storage Container",
+"SurvivalFabricator_Placeable": "Survival Fabricator",
+"Totem_Placeable": "Sub-Fief Console",
+"Totem_Small_Placeable": "Totem Small",
+"VehiclesFabricator_Placeable": "Vehicles Fabricator",
+"WaterCistern_Placeable": "Water Cistern",
+"WaterTower_Placeable": "PH_Water Tower",
+"Watershippers_Arch_01": "Arch",
+"Watershippers_Column": "Watershippers Column",
+"Watershippers_Corner_Column": "Corner Column",
+"Watershippers_Door_Frame": "Door",
+"Watershippers_Door_Frame_Wide": "Wide Passageway",
+"Watershippers_Floor_01": "Floor",
+"Watershippers_Floor_02": "Floor 2",
+"Watershippers_Floor_Round_Corner_01": "Rounded Floor",
+"Watershippers_Floor_Round_Corner_02": "Rounded Floor 2",
+"Watershippers_Floor_Round_Corner_In": "Rounded Inward Floor",
+"Watershippers_Foundation": "Foundation",
+"Watershippers_Foundation_Round_Corner": "Rounded Foundation",
+"Watershippers_Garage_Door_Big_Frame": "Watershippers Garage Door Big Frame",
+"Watershippers_Passageway": "Passageway",
+"Watershippers_Pillar_Bottom": "Pillar Bottom",
+"Watershippers_Pillar_Middle": "Pillar Middle",
+"Watershippers_Pillar_Top": "Pillar Top",
+"Watershippers_Prudence_Door_Frame": "Watershippers Prudence Door Frame",
+"Watershippers_Railing": "Railing",
+"Watershippers_Railing_Gate": "Railing Gate",
+"Watershippers_Railing_Inclined_L": "Watershippers Railing Inclined L",
+"Watershippers_Railing_Inclined_R": "Watershippers Railing Inclined R",
+"Watershippers_Railing_Round_Corner": "Rounded Railing",
+"Watershippers_Ramp": "Ramp",
+"Watershippers_Ramp_Corner": "Ramp Corner",
+"Watershippers_Ramp_Corner_Inwards": "Watershippers Ramp Corner Inwards",
+"Watershippers_Roof_01": "Watershippers Roof 01",
+"Watershippers_Roof_02": "Angled Roof 2",
+"Watershippers_Roof_Corner": "Angled Roof Corner",
+"Watershippers_Roof_Corner_In": "Angled Roof Inwards Corner",
+"Watershippers_Roof_Round_Corner": "Rounded Angled Roof Corner",
+"Watershippers_Rooftop_01": "Rooftop",
+"Watershippers_Rooftop_02": "Rooftop 2",
+"Watershippers_Stairs": "Stairs",
+"Watershippers_Stairs_Corner": "Stairs Corner",
+"Watershippers_Stairs_Corner_In": "Stairs Inwards Corner",
+"Watershippers_Wall_01": "Wall",
+"Watershippers_Wall_02": "Wall 2",
+"Watershippers_Wall_03": "Wall 3",
+"Watershippers_Wall_Half": "Half Wall",
+"Watershippers_Wall_Triangle_Bottom_Half_L": "Watershippers Wall Triangle Bottom Half L",
+"Watershippers_Wall_Triangle_Bottom_Half_R": "Watershippers Wall Triangle Bottom Half R",
+"Watershippers_Wall_Triangle_Bottom_L": "Watershippers Wall Triangle Bottom L",
+"Watershippers_Wall_Triangle_Bottom_R": "Watershippers Wall Triangle Bottom R",
+"Watershippers_Wall_Triangle_Top_Half_L": "Watershippers Wall Triangle Top Half L",
+"Watershippers_Wall_Triangle_Top_Half_R": "Watershippers Wall Triangle Top Half R",
+"Watershippers_Wall_Triangle_Top_L": "Watershippers Wall Triangle Top L",
+"Watershippers_Wall_Triangle_Top_R": "Watershippers Wall Triangle Top R",
+"Watershippers_Window_01": "Window",
+"Watershippers_Window_02": "Window 2",
+"Watershippers_Window_Round_Corner": "Rounded Window",
+"Watershippers_Window_Wide": "Wide Window",
+"WeaponsFabricator_Placeable": "Weapons Fabricator",
+"WearablesFabricator_Placeable": "Garment Fabricator",
+"WindTurbineDirectional_Placeable": "Wind Turbine Directional",
+"WindTurbineOmnidirectional_Placeable": "Wind Turbine Omnidirectional",
+"Windtrap_Placeable": "Windtrap"
+}
+}

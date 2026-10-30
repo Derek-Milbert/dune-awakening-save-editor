@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dune Save Editor</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header id="top">
+  <div class="who">
+    <div class="who-name" id="whoName">—</div>
+    <div class="who-id" id="whoId">no save open</div>
+  </div>
+  <nav id="tabs" aria-label="Sections"></nav>
+  <div class="wallet" id="wallet"></div>
+</header>
+
+<main id="view"></main>
+
+<footer id="bar">
+  <div class="bar-left">
+    <span id="barSave" class="muted">—</span>
+    <span id="barRun" class="warn" hidden>● Dune: Awakening is running. Close it before writing.</span>
+  </div>
+  <div class="bar-right">
+    <span id="barDirty" class="muted"></span>
+    <button class="btn" id="btnDiscard" disabled>Discard changes</button>
+    <button class="btn primary" id="btnWrite" disabled>Write to game</button>
+  </div>
+</footer>
+
+<div id="toast" role="status"></div>
+<dialog id="dlg"><div id="dlgBody"></div><div class="dlg-actions" id="dlgActions"></div></dialog>
+<script src="app.js"></script>
+</body>
+</html>

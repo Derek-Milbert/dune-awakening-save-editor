@@ -1,0 +1,8 @@
+# your real saves / backups (contain personal save data) - never commit
+backups/
+# old standalone recipe picker, not part of the editor
+/index.html
+__pycache__/
+*.pyc
+*.editor_tmp
+*.sqlite
